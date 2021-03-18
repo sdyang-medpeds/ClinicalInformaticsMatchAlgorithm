@@ -1,0 +1,40 @@
+
+Match Trace for Program: 1: Program 1
+Program Rank List: 1: A, 2: B, 3: C, 4: D
+Constraints: 
+Constraint 1, can take 1 from B: 2, C: 3
+Constraint 2, can take 1 from B: 2, D: 4
+Match attempts:
+Trace 1: 
+1: A, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+1: A, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A: 1
+Trace 3: 
+2: B, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: A: 1
+Trace 4: 
+2: B, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A: 1, B: 2
+Trace 5: 
+3: C, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: A: 1, B: 2
+Trace 6: 
+3: C, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: A: 1, B: 2
+Trace 7: 
+3: C, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: A: 1, B: 2
+Trace 8: 
+4: D, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: A: 1, B: 2
+Trace 9: 
+4: D, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: A: 1, B: 2
+Trace 10: 
+4: D, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: A: 1, B: 2
+Trace 11: 
+3: C, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: A: 1, B: 2
+Trace 12: 
+3: C, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: A: 1, B: 2
+Trace 13: 
+3: C, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: A: 1, B: 2
+Trace 14: 
+4: D, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: A: 1, B: 2
+Trace 15: 
+4: D, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: A: 1, B: 2
+Trace 16: 
+4: D, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: A: 1, B: 2
+End Match Trace for Program: 1: Program 1

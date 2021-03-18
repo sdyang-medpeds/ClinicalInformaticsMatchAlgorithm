@@ -1,0 +1,540 @@
+Applicant ID,Name,Rank,Program ID,Program Name
+1,Superman,1,36,"University of California, San Francisco"
+1,Superman,2,5,Cedars-Sinai Medical Center
+1,Superman,3,40,University of New Mexico
+2,Batman,1,46,Washington University
+2,Batman,2,38,University of Illinois at Chicago College of Medicine
+2,Batman,3,13,HonorHealth
+3,Spiderman,1,36,"University of California, San Francisco"
+4,Wolverine,1,37,University of Chicago Medicine
+4,Wolverine,2,29,Stony Brook
+4,Wolverine,3,17,LSU Health Shreveport and Ochsner Health System
+4,Wolverine,4,34,"University of California, Irvine"
+4,Wolverine,5,34,"University of California, Irvine"
+5,Wonder Woman,1,26,Rochester General Hospital
+5,Wonder Woman,2,37,University of Chicago Medicine
+5,Wonder Woman,3,22,NYU Grossman
+5,Wonder Woman,4,23,The Ohio State University and Nationwide Children's Hospital
+5,Wonder Woman,5,24,Oregon Health & Science University
+5,Wonder Woman,6,14,Houston Methodist Hospital
+6,Captain America,1,32,University at Buffalo
+6,Captain America,2,44,Univeristy of Washington 
+6,Captain America,3,30,University of Arizona College of Medicine
+6,Captain America,4,4,Case Western Reserve University
+6,Captain America,5,9,Duke University School of Medicine
+6,Captain America,6,45,Vanderbilt University
+6,Captain America,7,14,Houston Methodist Hospital
+7,Hal Jordan,1,46,Washington University
+8,Wally West,1,15,Icahn School of Medicine at Mount Sinai
+8,Wally West,2,2,Beth Israel Deaconess
+9,Hulk,1,25,Regenstrief Institute
+9,Hulk,2,44,Univeristy of Washington 
+9,Hulk,3,10,Geisinger Health System
+9,Hulk,4,3,Boston Children's Hospital
+9,Hulk,5,42,University of Texas Health Science Center San Antonio
+9,Hulk,6,46,Washington University
+9,Hulk,7,46,Washington University
+9,Hulk,8,47,Yale/VA
+9,Hulk,9,37,University of Chicago Medicine
+10,Daredevil,1,40,University of New Mexico
+10,Daredevil,2,45,Vanderbilt University
+10,Daredevil,3,9,Duke University School of Medicine
+10,Daredevil,4,35,"University of California, San Diego"
+10,Daredevil,5,34,"University of California, Irvine"
+10,Daredevil,6,36,"University of California, San Francisco"
+10,Daredevil,7,25,Regenstrief Institute
+10,Daredevil,8,4,Case Western Reserve University
+10,Daredevil,9,33,University of California Davis Health
+10,Daredevil,10,32,University at Buffalo
+11,Dick Grayson,1,38,University of Illinois at Chicago College of Medicine
+11,Dick Grayson,2,10,Geisinger Health System
+11,Dick Grayson,3,36,"University of California, San Francisco"
+11,Dick Grayson,4,33,University of California Davis Health
+12,Iron Man,1,20,Mayo Clinic Rochester
+12,Iron Man,2,19,Massachusetts General Hospital
+13,Jean Grey,1,4,Case Western Reserve University
+13,Jean Grey,2,12,Hennepin Healthcare
+13,Jean Grey,3,25,Regenstrief Institute
+13,Jean Grey,4,28,Stanford School of Medicine
+13,Jean Grey,5,39,University of Kansas School of Medicine
+13,Jean Grey,6,42,University of Texas Health Science Center San Antonio
+13,Jean Grey,7,12,Hennepin Healthcare
+13,Jean Grey,8,46,Washington University
+13,Jean Grey,9,16,Kettering Health Network and Raj Soin Medical Center
+14,Thor,1,40,University of New Mexico
+14,Thor,2,31,University of Arkansas for Medical Sciences
+14,Thor,3,12,Hennepin Healthcare
+15,Morpheus,1,2,Beth Israel Deaconess
+15,Morpheus,2,44,Univeristy of Washington 
+15,Morpheus,3,20,Mayo Clinic Rochester
+15,Morpheus,4,24,Oregon Health & Science University
+15,Morpheus,5,12,Hennepin Healthcare
+15,Morpheus,6,4,Case Western Reserve University
+16,Rorschach,1,2,Beth Israel Deaconess
+16,Rorschach,2,46,Washington University
+16,Rorschach,3,11,Heart of Texas Community Health Center
+17,Barbara Gordon,1,39,University of Kansas School of Medicine
+17,Barbara Gordon,2,14,Houston Methodist Hospital
+17,Barbara Gordon,3,45,Vanderbilt University
+17,Barbara Gordon,4,27,Sidney Kimmel Medical College Thomas Jefferson
+18,Thing,1,37,University of Chicago Medicine
+18,Thing,2,43,University of Virginia
+18,Thing,3,28,Stanford School of Medicine
+19,James Gordon,1,1,Baylor College of Medicine
+19,James Gordon,2,35,"University of California, San Diego"
+19,James Gordon,3,34,"University of California, Irvine"
+20,Catwoman,1,40,University of New Mexico
+20,Catwoman,2,25,Regenstrief Institute
+20,Catwoman,3,30,University of Arizona College of Medicine
+20,Catwoman,4,35,"University of California, San Diego"
+20,Catwoman,5,35,"University of California, San Diego"
+20,Catwoman,6,32,University at Buffalo
+20,Catwoman,7,36,"University of California, San Francisco"
+20,Catwoman,8,23,The Ohio State University and Nationwide Children's Hospital
+21,The Spirit,1,17,LSU Health Shreveport and Ochsner Health System
+21,The Spirit,2,37,University of Chicago Medicine
+21,The Spirit,3,26,Rochester General Hospital
+21,The Spirit,4,15,Icahn School of Medicine at Mount Sinai
+22,Professor X,1,40,University of New Mexico
+22,Professor X,2,38,University of Illinois at Chicago College of Medicine
+23,Raphael,1,2,Beth Israel Deaconess
+23,Raphael,2,17,LSU Health Shreveport and Ochsner Health System
+23,Raphael,3,26,Rochester General Hospital
+23,Raphael,4,36,"University of California, San Francisco"
+24,Yorick Brown,1,23,The Ohio State University and Nationwide Children's Hospital
+24,Yorick Brown,2,39,University of Kansas School of Medicine
+24,Yorick Brown,3,33,University of California Davis Health
+24,Yorick Brown,4,43,University of Virginia
+24,Yorick Brown,5,17,LSU Health Shreveport and Ochsner Health System
+24,Yorick Brown,6,21,Northwestern University Program
+24,Yorick Brown,7,13,HonorHealth
+24,Yorick Brown,8,45,Vanderbilt University
+25,Rick Grimes,1,40,University of New Mexico
+25,Rick Grimes,2,24,Oregon Health & Science University
+25,Rick Grimes,3,44,Univeristy of Washington 
+25,Rick Grimes,4,4,Case Western Reserve University
+25,Rick Grimes,5,31,University of Arkansas for Medical Sciences
+25,Rick Grimes,6,26,Rochester General Hospital
+25,Rick Grimes,7,18,Madigan Army Medical Center
+26,Punisher,1,9,Duke University School of Medicine
+26,Punisher,2,41,University of North Carolina 
+26,Punisher,3,9,Duke University School of Medicine
+26,Punisher,4,10,Geisinger Health System
+27,Swamp Thing,1,40,University of New Mexico
+27,Swamp Thing,2,14,Houston Methodist Hospital
+27,Swamp Thing,3,12,Hennepin Healthcare
+27,Swamp Thing,4,28,Stanford School of Medicine
+27,Swamp Thing,5,2,Beth Israel Deaconess
+27,Swamp Thing,6,30,University of Arizona College of Medicine
+27,Swamp Thing,7,43,University of Virginia
+27,Swamp Thing,8,42,University of Texas Health Science Center San Antonio
+28,John Constantine,1,20,Mayo Clinic Rochester
+28,John Constantine,2,30,University of Arizona College of Medicine
+28,John Constantine,3,32,University at Buffalo
+28,John Constantine,4,47,Yale/VA
+29,Green Arrow,1,27,Sidney Kimmel Medical College Thomas Jefferson
+29,Green Arrow,2,6,The Children's Hospital of Philadelphia
+29,Green Arrow,3,14,Houston Methodist Hospital
+29,Green Arrow,4,9,Duke University School of Medicine
+29,Green Arrow,5,29,Stony Brook
+29,Green Arrow,6,16,Kettering Health Network and Raj Soin Medical Center
+29,Green Arrow,7,37,University of Chicago Medicine
+29,Green Arrow,8,20,Mayo Clinic Rochester
+30,Tim Drake,1,7,Columbia University Medical Center 
+31,Nick Fury,1,45,Vanderbilt University
+31,Nick Fury,2,6,The Children's Hospital of Philadelphia
+31,Nick Fury,3,38,University of Illinois at Chicago College of Medicine
+31,Nick Fury,4,16,Kettering Health Network and Raj Soin Medical Center
+31,Nick Fury,5,22,NYU Grossman
+31,Nick Fury,6,36,"University of California, San Francisco"
+31,Nick Fury,7,46,Washington University
+31,Nick Fury,8,10,Geisinger Health System
+31,Nick Fury,9,30,University of Arizona College of Medicine
+31,Nick Fury,10,35,"University of California, San Diego"
+32,Jesse Custer,1,21,Northwestern University Program
+32,Jesse Custer,2,5,Cedars-Sinai Medical Center
+32,Jesse Custer,3,28,Stanford School of Medicine
+32,Jesse Custer,4,4,Case Western Reserve University
+32,Jesse Custer,5,1,Baylor College of Medicine
+32,Jesse Custer,6,22,NYU Grossman
+32,Jesse Custer,7,20,Mayo Clinic Rochester
+32,Jesse Custer,8,41,University of North Carolina 
+32,Jesse Custer,9,9,Duke University School of Medicine
+33,Dudge Dredd,1,26,Rochester General Hospital
+33,Dudge Dredd,2,17,LSU Health Shreveport and Ochsner Health System
+33,Dudge Dredd,3,25,Regenstrief Institute
+33,Dudge Dredd,4,33,University of California Davis Health
+33,Dudge Dredd,5,16,Kettering Health Network and Raj Soin Medical Center
+33,Dudge Dredd,6,3,Boston Children's Hospital
+33,Dudge Dredd,7,14,Houston Methodist Hospital
+34,Spawn,1,26,Rochester General Hospital
+34,Spawn,2,35,"University of California, San Diego"
+34,Spawn,3,12,Hennepin Healthcare
+34,Spawn,4,24,Oregon Health & Science University
+34,Spawn,5,26,Rochester General Hospital
+34,Spawn,6,36,"University of California, San Francisco"
+35,The Crow,1,2,Beth Israel Deaconess
+35,The Crow,2,37,University of Chicago Medicine
+35,The Crow,3,23,The Ohio State University and Nationwide Children's Hospital
+36,Doctor Strange,1,1,Baylor College of Medicine
+36,Doctor Strange,2,46,Washington University
+36,Doctor Strange,3,14,Houston Methodist Hospital
+36,Doctor Strange,4,18,Madigan Army Medical Center
+36,Doctor Strange,5,32,University at Buffalo
+36,Doctor Strange,6,41,University of North Carolina 
+37,Cyclops,1,2,Beth Israel Deaconess
+37,Cyclops,2,9,Duke University School of Medicine
+37,Cyclops,3,25,Regenstrief Institute
+37,Cyclops,4,8,David Geffen School of Medicine at UCLA
+37,Cyclops,5,15,Icahn School of Medicine at Mount Sinai
+38,Mr Fantastic,1,24,Oregon Health & Science University
+38,Mr Fantastic,2,35,"University of California, San Diego"
+38,Mr Fantastic,3,8,David Geffen School of Medicine at UCLA
+38,Mr Fantastic,4,2,Beth Israel Deaconess
+38,Mr Fantastic,5,18,Madigan Army Medical Center
+38,Mr Fantastic,6,13,HonorHealth
+39,Silver Surfer,1,46,Washington University
+39,Silver Surfer,2,25,Regenstrief Institute
+39,Silver Surfer,3,6,The Children's Hospital of Philadelphia
+39,Silver Surfer,4,11,Heart of Texas Community Health Center
+39,Silver Surfer,5,21,Northwestern University Program
+39,Silver Surfer,6,35,"University of California, San Diego"
+39,Silver Surfer,7,43,University of Virginia
+39,Silver Surfer,8,26,Rochester General Hospital
+39,Silver Surfer,9,37,University of Chicago Medicine
+40,Storm,1,7,Columbia University Medical Center 
+40,Storm,2,18,Madigan Army Medical Center
+40,Storm,3,23,The Ohio State University and Nationwide Children's Hospital
+40,Storm,4,14,Houston Methodist Hospital
+40,Storm,5,20,Mayo Clinic Rochester
+40,Storm,6,8,David Geffen School of Medicine at UCLA
+40,Storm,7,34,"University of California, Irvine"
+40,Storm,8,25,Regenstrief Institute
+40,Storm,9,15,Icahn School of Medicine at Mount Sinai
+40,Storm,10,31,University of Arkansas for Medical Sciences
+41,Martin Manhunter,1,7,Columbia University Medical Center 
+41,Martin Manhunter,2,18,Madigan Army Medical Center
+41,Martin Manhunter,3,13,HonorHealth
+41,Martin Manhunter,4,32,University at Buffalo
+41,Martin Manhunter,5,32,University at Buffalo
+41,Martin Manhunter,6,14,Houston Methodist Hospital
+42,Hawkeye,1,42,University of Texas Health Science Center San Antonio
+42,Hawkeye,2,45,Vanderbilt University
+42,Hawkeye,3,45,Vanderbilt University
+42,Hawkeye,4,7,Columbia University Medical Center 
+42,Hawkeye,5,25,Regenstrief Institute
+42,Hawkeye,6,30,University of Arizona College of Medicine
+43,Human Torch,1,15,Icahn School of Medicine at Mount Sinai
+43,Human Torch,2,28,Stanford School of Medicine
+43,Human Torch,3,40,University of New Mexico
+43,Human Torch,4,16,Kettering Health Network and Raj Soin Medical Center
+43,Human Torch,5,1,Baylor College of Medicine
+43,Human Torch,6,42,University of Texas Health Science Center San Antonio
+43,Human Torch,7,46,Washington University
+43,Human Torch,8,2,Beth Israel Deaconess
+43,Human Torch,9,39,University of Kansas School of Medicine
+43,Human Torch,10,42,University of Texas Health Science Center San Antonio
+44,Black Panther,1,40,University of New Mexico
+45,Aquaman,1,14,Houston Methodist Hospital
+45,Aquaman,2,40,University of New Mexico
+45,Aquaman,3,23,The Ohio State University and Nationwide Children's Hospital
+45,Aquaman,4,12,Hennepin Healthcare
+45,Aquaman,5,42,University of Texas Health Science Center San Antonio
+46,Bucky Barnes,1,7,Columbia University Medical Center 
+46,Bucky Barnes,2,41,University of North Carolina 
+46,Bucky Barnes,3,14,Houston Methodist Hospital
+46,Bucky Barnes,4,8,David Geffen School of Medicine at UCLA
+46,Bucky Barnes,5,18,Madigan Army Medical Center
+46,Bucky Barnes,6,18,Madigan Army Medical Center
+46,Bucky Barnes,7,14,Houston Methodist Hospital
+46,Bucky Barnes,8,9,Duke University School of Medicine
+46,Bucky Barnes,9,2,Beth Israel Deaconess
+47,Elijah Snow,1,35,"University of California, San Diego"
+47,Elijah Snow,2,36,"University of California, San Francisco"
+47,Elijah Snow,3,44,Univeristy of Washington 
+47,Elijah Snow,4,41,University of North Carolina 
+47,Elijah Snow,5,34,"University of California, Irvine"
+47,Elijah Snow,6,21,Northwestern University Program
+47,Elijah Snow,7,4,Case Western Reserve University
+48,John Stewart,1,4,Case Western Reserve University
+48,John Stewart,2,24,Oregon Health & Science University
+48,John Stewart,3,2,Beth Israel Deaconess
+48,John Stewart,4,36,"University of California, San Francisco"
+48,John Stewart,5,39,University of Kansas School of Medicine
+48,John Stewart,6,46,Washington University
+48,John Stewart,7,36,"University of California, San Francisco"
+48,John Stewart,8,10,Geisinger Health System
+48,John Stewart,9,18,Madigan Army Medical Center
+49,Hawkman,1,40,University of New Mexico
+49,Hawkman,2,3,Boston Children's Hospital
+49,Hawkman,3,25,Regenstrief Institute
+49,Hawkman,4,9,Duke University School of Medicine
+49,Hawkman,5,10,Geisinger Health System
+49,Hawkman,6,35,"University of California, San Diego"
+50,The Tick,1,8,David Geffen School of Medicine at UCLA
+50,The Tick,2,6,The Children's Hospital of Philadelphia
+50,The Tick,3,20,Mayo Clinic Rochester
+50,The Tick,4,40,University of New Mexico
+50,The Tick,5,17,LSU Health Shreveport and Ochsner Health System
+50,The Tick,6,22,NYU Grossman
+50,The Tick,7,43,University of Virginia
+50,The Tick,8,26,Rochester General Hospital
+51,Booster Gold,1,12,Hennepin Healthcare
+51,Booster Gold,2,13,HonorHealth
+51,Booster Gold,3,45,Vanderbilt University
+51,Booster Gold,4,28,Stanford School of Medicine
+51,Booster Gold,5,12,Hennepin Healthcare
+52,Blade,1,29,Stony Brook
+52,Blade,2,22,NYU Grossman
+52,Blade,3,16,Kettering Health Network and Raj Soin Medical Center
+53,Gambit,1,37,University of Chicago Medicine
+53,Gambit,2,19,Massachusetts General Hospital
+53,Gambit,3,47,Yale/VA
+53,Gambit,4,46,Washington University
+53,Gambit,5,24,Oregon Health & Science University
+54,Invisible Woman,1,8,David Geffen School of Medicine at UCLA
+54,Invisible Woman,2,46,Washington University
+54,Invisible Woman,3,7,Columbia University Medical Center 
+54,Invisible Woman,4,44,Univeristy of Washington 
+54,Invisible Woman,5,45,Vanderbilt University
+54,Invisible Woman,6,21,Northwestern University Program
+54,Invisible Woman,7,44,Univeristy of Washington 
+54,Invisible Woman,8,44,Univeristy of Washington 
+54,Invisible Woman,9,1,Baylor College of Medicine
+55,Iron Fist,1,31,University of Arkansas for Medical Sciences
+55,Iron Fist,2,28,Stanford School of Medicine
+56,Luke Cage,1,26,Rochester General Hospital
+56,Luke Cage,2,40,University of New Mexico
+56,Luke Cage,3,45,Vanderbilt University
+56,Luke Cage,4,36,"University of California, San Francisco"
+56,Luke Cage,5,15,Icahn School of Medicine at Mount Sinai
+56,Luke Cage,6,23,The Ohio State University and Nationwide Children's Hospital
+57,Jonah Hex,1,24,Oregon Health & Science University
+57,Jonah Hex,2,5,Cedars-Sinai Medical Center
+57,Jonah Hex,3,23,The Ohio State University and Nationwide Children's Hospital
+57,Jonah Hex,4,21,Northwestern University Program
+57,Jonah Hex,5,34,"University of California, Irvine"
+57,Jonah Hex,6,4,Case Western Reserve University
+57,Jonah Hex,7,31,University of Arkansas for Medical Sciences
+58,Black Widow,1,5,Cedars-Sinai Medical Center
+58,Black Widow,2,28,Stanford School of Medicine
+58,Black Widow,3,27,Sidney Kimmel Medical College Thomas Jefferson
+58,Black Widow,4,31,University of Arkansas for Medical Sciences
+58,Black Widow,5,9,Duke University School of Medicine
+58,Black Widow,6,9,Duke University School of Medicine
+59,The Rocketeer,1,14,Houston Methodist Hospital
+60,Ghost Rider,1,24,Oregon Health & Science University
+60,Ghost Rider,2,42,University of Texas Health Science Center San Antonio
+60,Ghost Rider,3,8,David Geffen School of Medicine at UCLA
+60,Ghost Rider,4,22,NYU Grossman
+60,Ghost Rider,5,28,Stanford School of Medicine
+60,Ghost Rider,6,35,"University of California, San Diego"
+60,Ghost Rider,7,16,Kettering Health Network and Raj Soin Medical Center
+61,Falcon,1,7,Columbia University Medical Center 
+61,Falcon,2,4,Case Western Reserve University
+61,Falcon,3,15,Icahn School of Medicine at Mount Sinai
+61,Falcon,4,23,The Ohio State University and Nationwide Children's Hospital
+61,Falcon,5,12,Hennepin Healthcare
+61,Falcon,6,17,LSU Health Shreveport and Ochsner Health System
+61,Falcon,7,12,Hennepin Healthcare
+62,Adam Strange,1,8,David Geffen School of Medicine at UCLA
+63,Wasp,1,34,"University of California, Irvine"
+63,Wasp,2,44,Univeristy of Washington 
+63,Wasp,3,47,Yale/VA
+63,Wasp,4,33,University of California Davis Health
+63,Wasp,5,8,David Geffen School of Medicine at UCLA
+63,Wasp,6,45,Vanderbilt University
+63,Wasp,7,11,Heart of Texas Community Health Center
+63,Wasp,8,39,University of Kansas School of Medicine
+63,Wasp,9,41,University of North Carolina 
+63,Wasp,10,3,Boston Children's Hospital
+64,Nova,1,14,Houston Methodist Hospital
+64,Nova,2,16,Kettering Health Network and Raj Soin Medical Center
+64,Nova,3,39,University of Kansas School of Medicine
+65,Albert Einstein,1,46,Washington University
+65,Albert Einstein,2,28,Stanford School of Medicine
+65,Albert Einstein,3,16,Kettering Health Network and Raj Soin Medical Center
+65,Albert Einstein,4,16,Kettering Health Network and Raj Soin Medical Center
+65,Albert Einstein,5,22,NYU Grossman
+65,Albert Einstein,6,25,Regenstrief Institute
+65,Albert Einstein,7,41,University of North Carolina 
+65,Albert Einstein,8,6,The Children's Hospital of Philadelphia
+65,Albert Einstein,9,18,Madigan Army Medical Center
+66,Sir Isaac Newton,1,11,Heart of Texas Community Health Center
+66,Sir Isaac Newton,2,13,HonorHealth
+66,Sir Isaac Newton,3,19,Massachusetts General Hospital
+66,Sir Isaac Newton,4,9,Duke University School of Medicine
+67,James Maxwell,1,20,Mayo Clinic Rochester
+67,James Maxwell,2,16,Kettering Health Network and Raj Soin Medical Center
+67,James Maxwell,3,6,The Children's Hospital of Philadelphia
+67,James Maxwell,4,2,Beth Israel Deaconess
+68,Galileo Galilei,1,11,Heart of Texas Community Health Center
+68,Galileo Galilei,2,11,Heart of Texas Community Health Center
+68,Galileo Galilei,3,7,Columbia University Medical Center 
+69,Charles Darwin,1,31,University of Arkansas for Medical Sciences
+69,Charles Darwin,2,5,Cedars-Sinai Medical Center
+70,Louis Pasteur,1,46,Washington University
+70,Louis Pasteur,2,3,Boston Children's Hospital
+70,Louis Pasteur,3,30,University of Arizona College of Medicine
+70,Louis Pasteur,4,32,University at Buffalo
+71,Edwin Hubble,1,47,Yale/VA
+72,Thomas Edison,1,24,Oregon Health & Science University
+72,Thomas Edison,2,41,University of North Carolina 
+72,Thomas Edison,3,7,Columbia University Medical Center 
+72,Thomas Edison,4,20,Mayo Clinic Rochester
+72,Thomas Edison,5,3,Boston Children's Hospital
+72,Thomas Edison,6,21,Northwestern University Program
+73,Hippocrates,1,4,Case Western Reserve University
+73,Hippocrates,2,18,Madigan Army Medical Center
+73,Hippocrates,3,18,Madigan Army Medical Center
+73,Hippocrates,4,40,University of New Mexico
+73,Hippocrates,5,24,Oregon Health & Science University
+73,Hippocrates,6,23,The Ohio State University and Nationwide Children's Hospital
+73,Hippocrates,7,25,Regenstrief Institute
+73,Hippocrates,8,7,Columbia University Medical Center 
+74,William Osler,1,4,Case Western Reserve University
+74,William Osler,2,25,Regenstrief Institute
+74,William Osler,3,46,Washington University
+74,William Osler,4,30,University of Arizona College of Medicine
+74,William Osler,5,9,Duke University School of Medicine
+75,Virginia Apgar,1,21,Northwestern University Program
+75,Virginia Apgar,2,22,NYU Grossman
+76,Galen,1,14,Houston Methodist Hospital
+76,Galen,2,8,David Geffen School of Medicine at UCLA
+77,John Hunter,1,18,Madigan Army Medical Center
+77,John Hunter,2,38,University of Illinois at Chicago College of Medicine
+77,John Hunter,3,24,Oregon Health & Science University
+77,John Hunter,4,22,NYU Grossman
+77,John Hunter,5,5,Cedars-Sinai Medical Center
+77,John Hunter,6,32,University at Buffalo
+77,John Hunter,7,18,Madigan Army Medical Center
+77,John Hunter,8,25,Regenstrief Institute
+77,John Hunter,9,36,"University of California, San Francisco"
+78,Henry Heimlich,1,6,The Children's Hospital of Philadelphia
+78,Henry Heimlich,2,34,"University of California, Irvine"
+79,William Harvey,1,18,Madigan Army Medical Center
+79,William Harvey,2,31,University of Arkansas for Medical Sciences
+79,William Harvey,3,18,Madigan Army Medical Center
+79,William Harvey,4,5,Cedars-Sinai Medical Center
+79,William Harvey,5,10,Geisinger Health System
+79,William Harvey,6,26,Rochester General Hospital
+79,William Harvey,7,18,Madigan Army Medical Center
+79,William Harvey,8,47,Yale/VA
+79,William Harvey,9,46,Washington University
+80,Henry Gray,1,26,Rochester General Hospital
+80,Henry Gray,2,22,NYU Grossman
+80,Henry Gray,3,23,The Ohio State University and Nationwide Children's Hospital
+80,Henry Gray,4,23,The Ohio State University and Nationwide Children's Hospital
+80,Henry Gray,5,1,Baylor College of Medicine
+80,Henry Gray,6,34,"University of California, Irvine"
+81,Carl Jung,1,15,Icahn School of Medicine at Mount Sinai
+81,Carl Jung,2,2,Beth Israel Deaconess
+81,Carl Jung,3,34,"University of California, Irvine"
+81,Carl Jung,4,3,Boston Children's Hospital
+81,Carl Jung,5,47,Yale/VA
+82,Paul Ehrlich,1,1,Baylor College of Medicine
+82,Paul Ehrlich,2,20,Mayo Clinic Rochester
+83,Harvey Cushing,1,22,NYU Grossman
+83,Harvey Cushing,2,19,Massachusetts General Hospital
+83,Harvey Cushing,3,13,HonorHealth
+83,Harvey Cushing,4,23,The Ohio State University and Nationwide Children's Hospital
+83,Harvey Cushing,5,19,Massachusetts General Hospital
+84,Charles Mayo,1,46,Washington University
+84,Charles Mayo,2,47,Yale/VA
+84,Charles Mayo,3,5,Cedars-Sinai Medical Center
+84,Charles Mayo,4,36,"University of California, San Francisco"
+84,Charles Mayo,5,4,Case Western Reserve University
+84,Charles Mayo,6,39,University of Kansas School of Medicine
+84,Charles Mayo,7,22,NYU Grossman
+84,Charles Mayo,8,15,Icahn School of Medicine at Mount Sinai
+84,Charles Mayo,9,38,University of Illinois at Chicago College of Medicine
+84,Charles Mayo,10,17,LSU Health Shreveport and Ochsner Health System
+85,Otto Fritz Meyerhof,1,10,Geisinger Health System
+85,Otto Fritz Meyerhof,2,9,Duke University School of Medicine
+85,Otto Fritz Meyerhof,3,19,Massachusetts General Hospital
+85,Otto Fritz Meyerhof,4,13,HonorHealth
+85,Otto Fritz Meyerhof,5,18,Madigan Army Medical Center
+86,Jonas Salk,1,28,Stanford School of Medicine
+86,Jonas Salk,2,2,Beth Israel Deaconess
+87,Alexander Graham Bell,1,47,Yale/VA
+87,Alexander Graham Bell,2,39,University of Kansas School of Medicine
+87,Alexander Graham Bell,3,30,University of Arizona College of Medicine
+87,Alexander Graham Bell,4,21,Northwestern University Program
+87,Alexander Graham Bell,5,22,NYU Grossman
+87,Alexander Graham Bell,6,1,Baylor College of Medicine
+87,Alexander Graham Bell,7,22,NYU Grossman
+88,George Washington Carver,1,3,Boston Children's Hospital
+88,George Washington Carver,2,11,Heart of Texas Community Health Center
+88,George Washington Carver,3,32,University at Buffalo
+88,George Washington Carver,4,6,The Children's Hospital of Philadelphia
+88,George Washington Carver,5,32,University at Buffalo
+88,George Washington Carver,6,22,NYU Grossman
+88,George Washington Carver,7,20,Mayo Clinic Rochester
+88,George Washington Carver,8,42,University of Texas Health Science Center San Antonio
+89,Eli Whitney,1,16,Kettering Health Network and Raj Soin Medical Center
+89,Eli Whitney,2,14,Houston Methodist Hospital
+89,Eli Whitney,3,22,NYU Grossman
+89,Eli Whitney,4,26,Rochester General Hospital
+89,Eli Whitney,5,13,HonorHealth
+90,Johannes Gutenberg,1,41,University of North Carolina 
+90,Johannes Gutenberg,2,13,HonorHealth
+90,Johannes Gutenberg,3,39,University of Kansas School of Medicine
+90,Johannes Gutenberg,4,19,Massachusetts General Hospital
+91,John Logie Baird,1,37,University of Chicago Medicine
+91,John Logie Baird,2,4,Case Western Reserve University
+91,John Logie Baird,3,18,Madigan Army Medical Center
+91,John Logie Baird,4,28,Stanford School of Medicine
+91,John Logie Baird,5,23,The Ohio State University and Nationwide Children's Hospital
+91,John Logie Baird,6,31,University of Arkansas for Medical Sciences
+91,John Logie Baird,7,4,Case Western Reserve University
+92,Benjamin Franklin,1,14,Houston Methodist Hospital
+92,Benjamin Franklin,2,45,Vanderbilt University
+92,Benjamin Franklin,3,16,Kettering Health Network and Raj Soin Medical Center
+92,Benjamin Franklin,4,25,Regenstrief Institute
+92,Benjamin Franklin,5,11,Heart of Texas Community Health Center
+92,Benjamin Franklin,6,10,Geisinger Health System
+92,Benjamin Franklin,7,5,Cedars-Sinai Medical Center
+93,Henry Ford,1,10,Geisinger Health System
+93,Henry Ford,2,16,Kettering Health Network and Raj Soin Medical Center
+93,Henry Ford,3,20,Mayo Clinic Rochester
+93,Henry Ford,4,6,The Children's Hospital of Philadelphia
+93,Henry Ford,5,15,Icahn School of Medicine at Mount Sinai
+93,Henry Ford,6,11,Heart of Texas Community Health Center
+93,Henry Ford,7,6,The Children's Hospital of Philadelphia
+94,James,1,39,University of Kansas School of Medicine
+94,James,2,32,University at Buffalo
+94,James,3,32,University at Buffalo
+94,James,4,23,The Ohio State University and Nationwide Children's Hospital
+94,James,5,17,LSU Health Shreveport and Ochsner Health System
+94,James,6,32,University at Buffalo
+94,James,7,6,The Children's Hospital of Philadelphia
+94,James,8,14,Houston Methodist Hospital
+94,James,9,6,The Children's Hospital of Philadelphia
+95,Naismith,1,9,Duke University School of Medicine
+95,Naismith,2,23,The Ohio State University and Nationwide Children's Hospital
+95,Naismith,3,32,University at Buffalo
+95,Naismith,4,24,Oregon Health & Science University
+95,Naismith,5,47,Yale/VA
+95,Naismith,6,33,University of California Davis Health
+95,Naismith,7,25,Regenstrief Institute
+95,Naismith,8,16,Kettering Health Network and Raj Soin Medical Center
+96,Herman Hollerith,1,27,Sidney Kimmel Medical College Thomas Jefferson
+96,Herman Hollerith,2,27,Sidney Kimmel Medical College Thomas Jefferson
+96,Herman Hollerith,3,33,University of California Davis Health
+96,Herman Hollerith,4,30,University of Arizona College of Medicine
+96,Herman Hollerith,5,42,University of Texas Health Science Center San Antonio
+96,Herman Hollerith,6,23,The Ohio State University and Nationwide Children's Hospital
+97,Nikola Tesla,1,12,Hennepin Healthcare
+97,Nikola Tesla,2,33,University of California Davis Health
+98,James Dyson,1,5,Cedars-Sinai Medical Center
+98,James Dyson,2,10,Geisinger Health System
+98,James Dyson,3,6,The Children's Hospital of Philadelphia
+98,James Dyson,4,4,Case Western Reserve University
+98,James Dyson,5,36,"University of California, San Francisco"
+98,James Dyson,6,5,Cedars-Sinai Medical Center
+98,James Dyson,7,18,Madigan Army Medical Center
+99,Hedy Lamarr,1,45,Vanderbilt University
+99,Hedy Lamarr,2,42,University of Texas Health Science Center San Antonio
+99,Hedy Lamarr,3,8,David Geffen School of Medicine at UCLA
+99,Hedy Lamarr,4,38,University of Illinois at Chicago College of Medicine
+99,Hedy Lamarr,5,45,Vanderbilt University

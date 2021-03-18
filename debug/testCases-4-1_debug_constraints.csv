@@ -1,0 +1,27 @@
+Program ID,Program Name,Constraint ID,Constraint Slots,Applicant ID,Applicant Name
+1,Baylor College of Medicine,10,3,19,James Gordon
+1,Baylor College of Medicine,10,3,43,Human Torch
+1,Baylor College of Medicine,10,3,80,Henry Gray
+1,Baylor College of Medicine,10,3,54,Invisible Woman
+1,Baylor College of Medicine,11,1,54,Invisible Woman
+1,Baylor College of Medicine,11,1,82,Paul Ehrlich
+20,Mayo Clinic Rochester,3,2,67,James Maxwell
+20,Mayo Clinic Rochester,3,2,72,Thomas Edison
+20,Mayo Clinic Rochester,3,2,29,Green Arrow
+20,Mayo Clinic Rochester,4,1,93,Henry Ford
+20,Mayo Clinic Rochester,4,1,40,Storm
+20,Mayo Clinic Rochester,5,1,82,Paul Ehrlich
+20,Mayo Clinic Rochester,5,1,32,Jesse Custer
+24,Oregon Health & Science University,1,1,95,Naismith
+24,Oregon Health & Science University,1,1,77,John Hunter
+24,Oregon Health & Science University,2,1,77,John Hunter
+24,Oregon Health & Science University,2,1,53,Gambit
+28,Stanford School of Medicine,8,1,91,John Logie Baird
+28,Stanford School of Medicine,8,1,58,Black Widow
+28,Stanford School of Medicine,9,1,65,Albert Einstein
+28,Stanford School of Medicine,9,1,55,Iron Fist
+47,Yale/VA,6,1,81,Carl Jung
+47,Yale/VA,6,1,28,John Constantine
+47,Yale/VA,7,2,81,Carl Jung
+47,Yale/VA,7,2,71,Edwin Hubble
+47,Yale/VA,7,2,9,Hulk

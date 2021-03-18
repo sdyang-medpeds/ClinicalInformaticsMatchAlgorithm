@@ -1,0 +1,219 @@
+Program ID,Program Name,Slots,Rank,Applicant ID,Name
+1,Baylor College of Medicine,4,1,19,James Gordon
+1,Baylor College of Medicine,4,2,43,Human Torch
+1,Baylor College of Medicine,4,3,80,Henry Gray
+1,Baylor College of Medicine,4,4,54,Invisible Woman
+1,Baylor College of Medicine,4,5,82,Paul Ehrlich
+2,Beth Israel Deaconess,3,1,16,Rorschach
+2,Beth Israel Deaconess,3,2,37,Cyclops
+2,Beth Israel Deaconess,3,3,27,Swamp Thing
+2,Beth Israel Deaconess,3,4,38,Mr Fantastic
+2,Beth Israel Deaconess,3,5,23,Raphael
+2,Beth Israel Deaconess,3,6,8,Wally West
+3,Boston Children's Hospital,1,1,33,Dudge Dredd
+3,Boston Children's Hospital,1,2,70,Louis Pasteur
+3,Boston Children's Hospital,1,3,88,George Washington Carver
+4,Case Western Reserve University,3,1,91,John Logie Baird
+4,Case Western Reserve University,3,2,25,Rick Grimes
+4,Case Western Reserve University,3,3,73,Hippocrates
+4,Case Western Reserve University,3,4,84,Charles Mayo
+4,Case Western Reserve University,3,5,10,Daredevil
+4,Case Western Reserve University,3,6,61,Falcon
+5,Cedars-Sinai Medical Center,1,1,1,Superman
+5,Cedars-Sinai Medical Center,1,2,92,Benjamin Franklin
+5,Cedars-Sinai Medical Center,1,3,57,Jonah Hex
+6,The Children's Hospital of Philadelphia,3,1,67,James Maxwell
+6,The Children's Hospital of Philadelphia,3,2,93,Henry Ford
+6,The Children's Hospital of Philadelphia,3,3,88,George Washington Carver
+6,The Children's Hospital of Philadelphia,3,4,78,Henry Heimlich
+6,The Children's Hospital of Philadelphia,3,5,31,Nick Fury
+7,Columbia University Medical Center ,1,1,72,Thomas Edison
+7,Columbia University Medical Center ,1,2,30,Tim Drake
+7,Columbia University Medical Center ,1,3,61,Falcon
+8,David Geffen School of Medicine at UCLA,3,1,62,Adam Strange
+8,David Geffen School of Medicine at UCLA,3,2,38,Mr Fantastic
+8,David Geffen School of Medicine at UCLA,3,3,63,Wasp
+8,David Geffen School of Medicine at UCLA,3,4,76,Galen
+8,David Geffen School of Medicine at UCLA,3,5,99,Hedy Lamarr
+9,Duke University School of Medicine,3,1,6,Captain America
+9,Duke University School of Medicine,3,2,95,Naismith
+9,Duke University School of Medicine,3,3,46,Bucky Barnes
+9,Duke University School of Medicine,3,4,85,Otto Fritz Meyerhof
+9,Duke University School of Medicine,3,5,37,Cyclops
+9,Duke University School of Medicine,3,6,10,Daredevil
+9,Duke University School of Medicine,3,7,49,Hawkman
+10,Geisinger Health System,4,1,48,John Stewart
+10,Geisinger Health System,4,2,98,James Dyson
+10,Geisinger Health System,4,3,9,Hulk
+10,Geisinger Health System,4,4,85,Otto Fritz Meyerhof
+10,Geisinger Health System,4,5,31,Nick Fury
+10,Geisinger Health System,4,6,26,Punisher
+10,Geisinger Health System,4,7,93,Henry Ford
+11,Heart of Texas Community Health Center,1,1,16,Rorschach
+11,Heart of Texas Community Health Center,1,2,92,Benjamin Franklin
+12,Hennepin Healthcare,2,1,13,Jean Grey
+12,Hennepin Healthcare,2,2,45,Aquaman
+12,Hennepin Healthcare,2,3,14,Thor
+12,Hennepin Healthcare,2,4,51,Booster Gold
+13,HonorHealth,2,1,85,Otto Fritz Meyerhof
+13,HonorHealth,2,2,66,Sir Isaac Newton
+13,HonorHealth,2,3,41,Martin Manhunter
+13,HonorHealth,2,4,24,Yorick Brown
+13,HonorHealth,2,5,51,Booster Gold
+13,HonorHealth,2,6,83,Harvey Cushing
+14,Houston Methodist Hospital,1,1,46,Bucky Barnes
+14,Houston Methodist Hospital,1,2,27,Swamp Thing
+14,Houston Methodist Hospital,1,3,5,Wonder Woman
+15,Icahn School of Medicine at Mount Sinai,4,1,61,Falcon
+15,Icahn School of Medicine at Mount Sinai,4,2,37,Cyclops
+15,Icahn School of Medicine at Mount Sinai,4,3,21,The Spirit
+15,Icahn School of Medicine at Mount Sinai,4,4,81,Carl Jung
+15,Icahn School of Medicine at Mount Sinai,4,5,8,Wally West
+15,Icahn School of Medicine at Mount Sinai,4,6,56,Luke Cage
+15,Icahn School of Medicine at Mount Sinai,4,7,84,Charles Mayo
+16,Kettering Health Network and Raj Soin Medical Center,1,1,65,Albert Einstein
+16,Kettering Health Network and Raj Soin Medical Center,1,2,13,Jean Grey
+16,Kettering Health Network and Raj Soin Medical Center,1,3,60,Ghost Rider
+17,LSU Health Shreveport and Ochsner Health System,3,1,24,Yorick Brown
+17,LSU Health Shreveport and Ochsner Health System,3,2,21,The Spirit
+17,LSU Health Shreveport and Ochsner Health System,3,3,4,Wolverine
+17,LSU Health Shreveport and Ochsner Health System,3,4,61,Falcon
+17,LSU Health Shreveport and Ochsner Health System,3,5,33,Dudge Dredd
+18,Madigan Army Medical Center,3,1,41,Martin Manhunter
+18,Madigan Army Medical Center,3,2,46,Bucky Barnes
+18,Madigan Army Medical Center,3,3,73,Hippocrates
+18,Madigan Army Medical Center,3,4,36,Doctor Strange
+18,Madigan Army Medical Center,3,5,91,John Logie Baird
+18,Madigan Army Medical Center,3,6,79,William Harvey
+18,Madigan Army Medical Center,3,7,85,Otto Fritz Meyerhof
+19,Massachusetts General Hospital,2,1,12,Iron Man
+19,Massachusetts General Hospital,2,2,53,Gambit
+19,Massachusetts General Hospital,2,3,83,Harvey Cushing
+20,Mayo Clinic Rochester,5,1,67,James Maxwell
+20,Mayo Clinic Rochester,5,2,72,Thomas Edison
+20,Mayo Clinic Rochester,5,3,29,Green Arrow
+20,Mayo Clinic Rochester,5,4,93,Henry Ford
+20,Mayo Clinic Rochester,5,5,40,Storm
+20,Mayo Clinic Rochester,5,6,82,Paul Ehrlich
+20,Mayo Clinic Rochester,5,7,32,Jesse Custer
+21,Northwestern University Program,2,1,47,Elijah Snow
+21,Northwestern University Program,2,2,72,Thomas Edison
+21,Northwestern University Program,2,3,39,Silver Surfer
+21,Northwestern University Program,2,4,32,Jesse Custer
+21,Northwestern University Program,2,5,75,Virginia Apgar
+21,Northwestern University Program,2,6,54,Invisible Woman
+22,NYU Grossman,2,1,31,Nick Fury
+22,NYU Grossman,2,2,84,Charles Mayo
+22,NYU Grossman,2,3,60,Ghost Rider
+22,NYU Grossman,2,4,75,Virginia Apgar
+22,NYU Grossman,2,5,87,Alexander Graham Bell
+23,The Ohio State University and Nationwide Children's Hospital,4,1,45,Aquaman
+23,The Ohio State University and Nationwide Children's Hospital,4,2,91,John Logie Baird
+23,The Ohio State University and Nationwide Children's Hospital,4,3,61,Falcon
+23,The Ohio State University and Nationwide Children's Hospital,4,4,20,Catwoman
+23,The Ohio State University and Nationwide Children's Hospital,4,5,95,Naismith
+23,The Ohio State University and Nationwide Children's Hospital,4,6,94,James
+23,The Ohio State University and Nationwide Children's Hospital,4,7,57,Jonah Hex
+23,The Ohio State University and Nationwide Children's Hospital,4,8,83,Harvey Cushing
+23,The Ohio State University and Nationwide Children's Hospital,4,9,96,Herman Hollerith
+23,The Ohio State University and Nationwide Children's Hospital,4,10,80,Henry Gray
+24,Oregon Health & Science University,2,1,95,Naismith
+24,Oregon Health & Science University,2,2,77,John Hunter
+24,Oregon Health & Science University,2,3,53,Gambit
+24,Oregon Health & Science University,2,4,60,Ghost Rider
+25,Regenstrief Institute,1,1,74,William Osler
+25,Regenstrief Institute,1,2,10,Daredevil
+25,Regenstrief Institute,1,3,49,Hawkman
+26,Rochester General Hospital,3,1,80,Henry Gray
+26,Rochester General Hospital,3,2,21,The Spirit
+26,Rochester General Hospital,3,3,34,Spawn
+26,Rochester General Hospital,3,4,5,Wonder Woman
+26,Rochester General Hospital,3,5,25,Rick Grimes
+26,Rochester General Hospital,3,6,79,William Harvey
+27,Sidney Kimmel Medical College Thomas Jefferson,1,1,29,Green Arrow
+27,Sidney Kimmel Medical College Thomas Jefferson,1,2,58,Black Widow
+28,Stanford School of Medicine,4,1,18,Thing
+28,Stanford School of Medicine,4,2,27,Swamp Thing
+28,Stanford School of Medicine,4,3,13,Jean Grey
+28,Stanford School of Medicine,4,4,91,John Logie Baird
+28,Stanford School of Medicine,4,5,58,Black Widow
+28,Stanford School of Medicine,4,6,43,Human Torch
+28,Stanford School of Medicine,4,7,65,Albert Einstein
+28,Stanford School of Medicine,4,8,55,Iron Fist
+29,Stony Brook,2,1,4,Wolverine
+29,Stony Brook,2,2,52,Blade
+30,University of Arizona College of Medicine,1,1,96,Herman Hollerith
+31,University of Arkansas for Medical Sciences,3,1,91,John Logie Baird
+31,University of Arkansas for Medical Sciences,3,2,69,Charles Darwin
+31,University of Arkansas for Medical Sciences,3,3,40,Storm
+31,University of Arkansas for Medical Sciences,3,4,25,Rick Grimes
+31,University of Arkansas for Medical Sciences,3,5,79,William Harvey
+32,University at Buffalo,1,1,10,Daredevil
+32,University at Buffalo,1,2,41,Martin Manhunter
+33,University of California Davis Health,4,1,33,Dudge Dredd
+33,University of California Davis Health,4,2,95,Naismith
+33,University of California Davis Health,4,3,10,Daredevil
+33,University of California Davis Health,4,4,11,Dick Grayson
+33,University of California Davis Health,4,5,24,Yorick Brown
+33,University of California Davis Health,4,6,63,Wasp
+34,"University of California, Irvine",1,1,81,Carl Jung
+34,"University of California, Irvine",1,2,40,Storm
+34,"University of California, Irvine",1,3,57,Jonah Hex
+35,"University of California, San Diego",4,1,31,Nick Fury
+35,"University of California, San Diego",4,2,10,Daredevil
+35,"University of California, San Diego",4,3,20,Catwoman
+35,"University of California, San Diego",4,4,34,Spawn
+35,"University of California, San Diego",4,5,60,Ghost Rider
+35,"University of California, San Diego",4,6,19,James Gordon
+35,"University of California, San Diego",4,7,38,Mr Fantastic
+36,"University of California, San Francisco",1,1,56,Luke Cage
+36,"University of California, San Francisco",1,2,98,James Dyson
+37,University of Chicago Medicine,4,1,4,Wolverine
+37,University of Chicago Medicine,4,2,53,Gambit
+37,University of Chicago Medicine,4,3,39,Silver Surfer
+37,University of Chicago Medicine,4,4,29,Green Arrow
+37,University of Chicago Medicine,4,5,5,Wonder Woman
+37,University of Chicago Medicine,4,6,35,The Crow
+38,University of Illinois at Chicago College of Medicine,1,1,11,Dick Grayson
+38,University of Illinois at Chicago College of Medicine,1,2,99,Hedy Lamarr
+38,University of Illinois at Chicago College of Medicine,1,3,84,Charles Mayo
+39,University of Kansas School of Medicine,1,1,84,Charles Mayo
+39,University of Kansas School of Medicine,1,2,43,Human Torch
+39,University of Kansas School of Medicine,1,3,17,Barbara Gordon
+40,University of New Mexico,3,1,56,Luke Cage
+40,University of New Mexico,3,2,25,Rick Grimes
+40,University of New Mexico,3,3,44,Black Panther
+40,University of New Mexico,3,4,43,Human Torch
+40,University of New Mexico,3,5,14,Thor
+40,University of New Mexico,3,6,22,Professor X
+40,University of New Mexico,3,7,50,The Tick
+41,University of North Carolina ,2,1,90,Johannes Gutenberg
+41,University of North Carolina ,2,2,65,Albert Einstein
+41,University of North Carolina ,2,3,63,Wasp
+41,University of North Carolina ,2,4,72,Thomas Edison
+42,University of Texas Health Science Center San Antonio,1,1,99,Hedy Lamarr
+42,University of Texas Health Science Center San Antonio,1,2,60,Ghost Rider
+42,University of Texas Health Science Center San Antonio,1,3,96,Herman Hollerith
+43,University of Virginia,4,1,50,The Tick
+43,University of Virginia,4,2,18,Thing
+44,Univeristy of Washington ,1,1,54,Invisible Woman
+44,Univeristy of Washington ,1,2,6,Captain America
+45,Vanderbilt University,4,1,92,Benjamin Franklin
+45,Vanderbilt University,4,2,63,Wasp
+45,Vanderbilt University,4,3,56,Luke Cage
+45,Vanderbilt University,4,4,54,Invisible Woman
+45,Vanderbilt University,4,5,17,Barbara Gordon
+45,Vanderbilt University,4,6,51,Booster Gold
+46,Washington University,4,1,74,William Osler
+46,Washington University,4,2,84,Charles Mayo
+46,Washington University,4,3,13,Jean Grey
+46,Washington University,4,4,31,Nick Fury
+46,Washington University,4,5,2,Batman
+46,Washington University,4,6,9,Hulk
+46,Washington University,4,7,39,Silver Surfer
+46,Washington University,4,8,79,William Harvey
+46,Washington University,4,9,7,Hal Jordan
+47,Yale/VA,3,1,81,Carl Jung
+47,Yale/VA,3,2,71,Edwin Hubble
+47,Yale/VA,3,3,9,Hulk
+47,Yale/VA,3,4,28,John Constantine

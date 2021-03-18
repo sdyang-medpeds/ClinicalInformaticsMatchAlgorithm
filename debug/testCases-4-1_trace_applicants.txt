@@ -1,0 +1,1768 @@
+
+Match Trace for Applicant: 1: Superman
+Applicant Rank List: 36: University of California, San Francisco, 5: Cedars-Sinai Medical Center, 40: University of New Mexico
+Trace 1: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Superman: 1
+End Match Trace for Applicant: 1: Superman
+
+Match Trace for Applicant: 2: Batman
+Applicant Rank List: 46: Washington University, 38: University of Illinois at Chicago College of Medicine, 13: HonorHealth
+Trace 1: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2
+End Match Trace for Applicant: 2: Batman
+
+Match Trace for Applicant: 3: Spiderman
+Applicant Rank List: 36: University of California, San Francisco
+Trace 1: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+36: University of California, San Francisco, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+36: University of California, San Francisco, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+36: University of California, San Francisco, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+36: University of California, San Francisco, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+End Match Trace for Applicant: 3: Spiderman
+
+Match Trace for Applicant: 4: Wolverine
+Applicant Rank List: 37: University of Chicago Medicine, 29: Stony Brook, 17: LSU Health Shreveport and Ochsner Health System, 34: University of California, Irvine, 34: University of California, Irvine
+Trace 1: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wolverine: 4
+End Match Trace for Applicant: 4: Wolverine
+
+Match Trace for Applicant: 5: Wonder Woman
+Applicant Rank List: 26: Rochester General Hospital, 37: University of Chicago Medicine, 22: NYU Grossman, 23: The Ohio State University and Nationwide Children's Hospital, 24: Oregon Health & Science University, 14: Houston Methodist Hospital
+Trace 1: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wonder Woman: 5
+End Match Trace for Applicant: 5: Wonder Woman
+
+Match Trace for Applicant: 6: Captain America
+Applicant Rank List: 32: University at Buffalo, 44: Univeristy of Washington , 30: University of Arizona College of Medicine, 4: Case Western Reserve University, 9: Duke University School of Medicine, 45: Vanderbilt University, 14: Houston Methodist Hospital
+Trace 1: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Captain America: 6
+Trace 5: 
+44: Univeristy of Washington , on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Captain America: 6, bumper is: 54: Invisible Woman
+Trace 6: 
+44: Univeristy of Washington , on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Captain America: 6, bumper is: 54: Invisible Woman
+Trace 7: 
+32: University at Buffalo, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+32: University at Buffalo, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 9: 
+44: Univeristy of Washington , on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+Trace 10: 
+44: Univeristy of Washington , on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Invisible Woman: 54, bumper is: 6: Captain America
+Trace 11: 
+44: Univeristy of Washington , on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Invisible Woman: 54
+Trace 12: 
+30: University of Arizona College of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Herman Hollerith: 96
+Trace 13: 
+30: University of Arizona College of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Herman Hollerith: 96
+Trace 14: 
+4: Case Western Reserve University, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 15: 
+4: Case Western Reserve University, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 16: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95
+Trace 17: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+End Match Trace for Applicant: 6: Captain America
+
+Match Trace for Applicant: 7: Hal Jordan
+Applicant Rank List: 46: Washington University
+Trace 1: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2
+Trace 2: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2, Hal Jordan: 7
+End Match Trace for Applicant: 7: Hal Jordan
+
+Match Trace for Applicant: 8: Wally West
+Applicant Rank List: 15: Icahn School of Medicine at Mount Sinai, 2: Beth Israel Deaconess
+Trace 1: 
+15: Icahn School of Medicine at Mount Sinai, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+15: Icahn School of Medicine at Mount Sinai, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wally West: 8
+End Match Trace for Applicant: 8: Wally West
+
+Match Trace for Applicant: 9: Hulk
+Applicant Rank List: 25: Regenstrief Institute, 44: Univeristy of Washington , 10: Geisinger Health System, 3: Boston Children's Hospital, 42: University of Texas Health Science Center San Antonio, 46: Washington University, 46: Washington University, 47: Yale/VA, 37: University of Chicago Medicine
+Trace 1: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 4: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Captain America: 6
+Trace 5: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9
+End Match Trace for Applicant: 9: Hulk
+
+Match Trace for Applicant: 10: Daredevil
+Applicant Rank List: 40: University of New Mexico, 45: Vanderbilt University, 9: Duke University School of Medicine, 35: University of California, San Diego, 34: University of California, Irvine, 36: University of California, San Francisco, 25: Regenstrief Institute, 4: Case Western Reserve University, 33: University of California Davis Health, 32: University at Buffalo
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Daredevil: 10
+End Match Trace for Applicant: 10: Daredevil
+
+Match Trace for Applicant: 11: Dick Grayson
+Applicant Rank List: 38: University of Illinois at Chicago College of Medicine, 10: Geisinger Health System, 36: University of California, San Francisco, 33: University of California Davis Health
+Trace 1: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Dick Grayson: 11
+End Match Trace for Applicant: 11: Dick Grayson
+
+Match Trace for Applicant: 12: Iron Man
+Applicant Rank List: 20: Mayo Clinic Rochester, 19: Massachusetts General Hospital
+Trace 1: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+19: Massachusetts General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+19: Massachusetts General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Iron Man: 12
+End Match Trace for Applicant: 12: Iron Man
+
+Match Trace for Applicant: 13: Jean Grey
+Applicant Rank List: 4: Case Western Reserve University, 12: Hennepin Healthcare, 25: Regenstrief Institute, 28: Stanford School of Medicine, 39: University of Kansas School of Medicine, 42: University of Texas Health Science Center San Antonio, 12: Hennepin Healthcare, 46: Washington University, 16: Kettering Health Network and Raj Soin Medical Center
+Trace 1: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jean Grey: 13
+End Match Trace for Applicant: 13: Jean Grey
+
+Match Trace for Applicant: 14: Thor
+Applicant Rank List: 40: University of New Mexico, 31: University of Arkansas for Medical Sciences, 12: Hennepin Healthcare
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14
+Trace 3: 
+40: University of New Mexico, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44, bumper is: 56: Luke Cage
+Trace 4: 
+40: University of New Mexico, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44, bumper is: 56: Luke Cage
+Trace 5: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 6: 
+40: University of New Mexico, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56, bumper is: 14: Thor
+Trace 7: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 8: 
+31: University of Arkansas for Medical Sciences, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Charles Darwin: 69
+Trace 9: 
+31: University of Arkansas for Medical Sciences, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Charles Darwin: 69
+Trace 10: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 11: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Jean Grey: 13, Thor: 14
+End Match Trace for Applicant: 14: Thor
+
+Match Trace for Applicant: 15: Morpheus
+Applicant Rank List: 2: Beth Israel Deaconess, 44: Univeristy of Washington , 20: Mayo Clinic Rochester, 24: Oregon Health & Science University, 12: Hennepin Healthcare, 4: Case Western Reserve University
+Trace 1: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 4: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Captain America: 6
+Trace 5: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 7: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 9: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13
+Trace 10: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13
+Trace 11: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 12: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 13: 
+2: Beth Israel Deaconess, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 14: 
+2: Beth Israel Deaconess, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 15: 
+44: Univeristy of Washington , on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+Trace 16: 
+44: Univeristy of Washington , on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Invisible Woman: 54
+Trace 17: 
+20: Mayo Clinic Rochester, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 18: 
+20: Mayo Clinic Rochester, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 19: 
+24: Oregon Health & Science University, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60, John Hunter: 77
+Trace 20: 
+24: Oregon Health & Science University, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Ghost Rider: 60, John Hunter: 77
+Trace 21: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 22: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 23: 
+4: Case Western Reserve University, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 24: 
+4: Case Western Reserve University, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 25: 
+2: Beth Israel Deaconess, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 26: 
+2: Beth Israel Deaconess, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 27: 
+44: Univeristy of Washington , on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+Trace 28: 
+44: Univeristy of Washington , on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Invisible Woman: 54
+Trace 29: 
+20: Mayo Clinic Rochester, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 30: 
+20: Mayo Clinic Rochester, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 31: 
+24: Oregon Health & Science University, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60, John Hunter: 77
+Trace 32: 
+24: Oregon Health & Science University, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Ghost Rider: 60, John Hunter: 77
+Trace 33: 
+12: Hennepin Healthcare, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 34: 
+12: Hennepin Healthcare, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 35: 
+4: Case Western Reserve University, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 36: 
+4: Case Western Reserve University, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+End Match Trace for Applicant: 15: Morpheus
+
+Match Trace for Applicant: 16: Rorschach
+Applicant Rank List: 2: Beth Israel Deaconess, 46: Washington University, 11: Heart of Texas Community Health Center
+Trace 1: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rorschach: 16
+End Match Trace for Applicant: 16: Rorschach
+
+Match Trace for Applicant: 17: Barbara Gordon
+Applicant Rank List: 39: University of Kansas School of Medicine, 14: Houston Methodist Hospital, 45: Vanderbilt University, 27: Sidney Kimmel Medical College Thomas Jefferson
+Trace 1: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Barbara Gordon: 17
+End Match Trace for Applicant: 17: Barbara Gordon
+
+Match Trace for Applicant: 18: Thing
+Applicant Rank List: 37: University of Chicago Medicine, 43: University of Virginia, 28: Stanford School of Medicine
+Trace 1: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4
+Trace 2: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Wolverine: 4
+Trace 3: 
+43: University of Virginia, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+43: University of Virginia, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thing: 18
+End Match Trace for Applicant: 18: Thing
+
+Match Trace for Applicant: 19: James Gordon
+Applicant Rank List: 1: Baylor College of Medicine, 35: University of California, San Diego, 34: University of California, Irvine
+Trace 1: 
+1: Baylor College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+1: Baylor College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: James Gordon: 19
+End Match Trace for Applicant: 19: James Gordon
+
+Match Trace for Applicant: 20: Catwoman
+Applicant Rank List: 40: University of New Mexico, 25: Regenstrief Institute, 30: University of Arizona College of Medicine, 35: University of California, San Diego, 35: University of California, San Diego, 32: University at Buffalo, 36: University of California, San Francisco, 23: The Ohio State University and Nationwide Children's Hospital
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Thor: 14
+Trace 3: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 7: 
+35: University of California, San Diego, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+35: University of California, San Diego, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Catwoman: 20
+End Match Trace for Applicant: 20: Catwoman
+
+Match Trace for Applicant: 21: The Spirit
+Applicant Rank List: 17: LSU Health Shreveport and Ochsner Health System, 37: University of Chicago Medicine, 26: Rochester General Hospital, 15: Icahn School of Medicine at Mount Sinai
+Trace 1: 
+17: LSU Health Shreveport and Ochsner Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+17: LSU Health Shreveport and Ochsner Health System, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: The Spirit: 21
+End Match Trace for Applicant: 21: The Spirit
+
+Match Trace for Applicant: 22: Professor X
+Applicant Rank List: 40: University of New Mexico, 38: University of Illinois at Chicago College of Medicine
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14, Professor X: 22
+Trace 3: 
+40: University of New Mexico, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25, bumper is: 44: Black Panther
+Trace 4: 
+40: University of New Mexico, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25, bumper is: 44: Black Panther
+Trace 5: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 6: 
+40: University of New Mexico, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56, bumper is: 22: Professor X
+Trace 7: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 8: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Dick Grayson: 11
+Trace 9: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Dick Grayson: 11
+Trace 10: 
+40: University of New Mexico, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 11: 
+40: University of New Mexico, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56, bumper is: 22: Professor X
+Trace 12: 
+40: University of New Mexico, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 13: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Dick Grayson: 11
+Trace 14: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Dick Grayson: 11
+End Match Trace for Applicant: 22: Professor X
+
+Match Trace for Applicant: 23: Raphael
+Applicant Rank List: 2: Beth Israel Deaconess, 17: LSU Health Shreveport and Ochsner Health System, 26: Rochester General Hospital, 36: University of California, San Francisco
+Trace 1: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16
+Trace 2: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rorschach: 16, Raphael: 23
+End Match Trace for Applicant: 23: Raphael
+
+Match Trace for Applicant: 24: Yorick Brown
+Applicant Rank List: 23: The Ohio State University and Nationwide Children's Hospital, 39: University of Kansas School of Medicine, 33: University of California Davis Health, 43: University of Virginia, 17: LSU Health Shreveport and Ochsner Health System, 21: Northwestern University Program, 13: HonorHealth, 45: Vanderbilt University
+Trace 1: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 4: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 5: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Yorick Brown: 24
+End Match Trace for Applicant: 24: Yorick Brown
+
+Match Trace for Applicant: 25: Rick Grimes
+Applicant Rank List: 40: University of New Mexico, 24: Oregon Health & Science University, 44: Univeristy of Washington , 4: Case Western Reserve University, 31: University of Arkansas for Medical Sciences, 26: Rochester General Hospital, 18: Madigan Army Medical Center
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Professor X: 22
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+End Match Trace for Applicant: 25: Rick Grimes
+
+Match Trace for Applicant: 26: Punisher
+Applicant Rank List: 9: Duke University School of Medicine, 41: University of North Carolina , 9: Duke University School of Medicine, 10: Geisinger Health System
+Trace 1: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10
+Trace 2: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10
+Trace 3: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10
+Trace 6: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10
+Trace 7: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9
+Trace 8: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, Punisher: 26
+Trace 9: 
+10: Geisinger Health System, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85, bumper is: 98: James Dyson
+Trace 10: 
+10: Geisinger Health System, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85, bumper is: 98: James Dyson
+Trace 11: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 12: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 13: 
+41: University of North Carolina , on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+Trace 14: 
+41: University of North Carolina , on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+Trace 15: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 16: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 17: 
+10: Geisinger Health System, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 18: 
+10: Geisinger Health System, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98, bumper is: 26: Punisher
+Trace 19: 
+10: Geisinger Health System, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 20: 
+9: Duke University School of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 21: 
+9: Duke University School of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 22: 
+41: University of North Carolina , on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+Trace 23: 
+41: University of North Carolina , on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+Trace 24: 
+9: Duke University School of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 25: 
+9: Duke University School of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 26: 
+10: Geisinger Health System, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 27: 
+10: Geisinger Health System, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98, bumper is: 26: Punisher
+Trace 28: 
+10: Geisinger Health System, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+End Match Trace for Applicant: 26: Punisher
+
+Match Trace for Applicant: 27: Swamp Thing
+Applicant Rank List: 40: University of New Mexico, 14: Houston Methodist Hospital, 12: Hennepin Healthcare, 28: Stanford School of Medicine, 2: Beth Israel Deaconess, 30: University of Arizona College of Medicine, 43: University of Virginia, 42: University of Texas Health Science Center San Antonio
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 3: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Swamp Thing: 27
+Trace 5: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Swamp Thing: 27, bumper is: 46: Bucky Barnes
+Trace 6: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Swamp Thing: 27, bumper is: 46: Bucky Barnes
+Trace 7: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 8: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 9: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 10: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Bucky Barnes: 46, bumper is: 27: Swamp Thing
+Trace 11: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 12: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 13: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 14: 
+28: Stanford School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65
+Trace 15: 
+28: Stanford School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+End Match Trace for Applicant: 27: Swamp Thing
+
+Match Trace for Applicant: 28: John Constantine
+Applicant Rank List: 20: Mayo Clinic Rochester, 30: University of Arizona College of Medicine, 32: University at Buffalo, 47: Yale/VA
+Trace 1: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 7: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: John Constantine: 28
+End Match Trace for Applicant: 28: John Constantine
+
+Match Trace for Applicant: 29: Green Arrow
+Applicant Rank List: 27: Sidney Kimmel Medical College Thomas Jefferson, 6: The Children's Hospital of Philadelphia, 14: Houston Methodist Hospital, 9: Duke University School of Medicine, 29: Stony Brook, 16: Kettering Health Network and Raj Soin Medical Center, 37: University of Chicago Medicine, 20: Mayo Clinic Rochester
+Trace 1: 
+27: Sidney Kimmel Medical College Thomas Jefferson, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+27: Sidney Kimmel Medical College Thomas Jefferson, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Green Arrow: 29
+End Match Trace for Applicant: 29: Green Arrow
+
+Match Trace for Applicant: 30: Tim Drake
+Applicant Rank List: 7: Columbia University Medical Center 
+Trace 1: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Tim Drake: 30
+End Match Trace for Applicant: 30: Tim Drake
+
+Match Trace for Applicant: 31: Nick Fury
+Applicant Rank List: 45: Vanderbilt University, 6: The Children's Hospital of Philadelphia, 38: University of Illinois at Chicago College of Medicine, 16: Kettering Health Network and Raj Soin Medical Center, 22: NYU Grossman, 36: University of California, San Francisco, 46: Washington University, 10: Geisinger Health System, 30: University of Arizona College of Medicine, 35: University of California, San Diego
+Trace 1: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Nick Fury: 31
+End Match Trace for Applicant: 31: Nick Fury
+
+Match Trace for Applicant: 32: Jesse Custer
+Applicant Rank List: 21: Northwestern University Program, 5: Cedars-Sinai Medical Center, 28: Stanford School of Medicine, 4: Case Western Reserve University, 1: Baylor College of Medicine, 22: NYU Grossman, 20: Mayo Clinic Rochester, 41: University of North Carolina , 9: Duke University School of Medicine
+Trace 1: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jesse Custer: 32
+End Match Trace for Applicant: 32: Jesse Custer
+
+Match Trace for Applicant: 33: Dudge Dredd
+Applicant Rank List: 26: Rochester General Hospital, 17: LSU Health Shreveport and Ochsner Health System, 25: Regenstrief Institute, 33: University of California Davis Health, 16: Kettering Health Network and Raj Soin Medical Center, 3: Boston Children's Hospital, 14: Houston Methodist Hospital
+Trace 1: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5
+Trace 2: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Wonder Woman: 5
+Trace 3: 
+17: LSU Health Shreveport and Ochsner Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: The Spirit: 21
+Trace 4: 
+17: LSU Health Shreveport and Ochsner Health System, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: The Spirit: 21, Dudge Dredd: 33
+End Match Trace for Applicant: 33: Dudge Dredd
+
+Match Trace for Applicant: 34: Spawn
+Applicant Rank List: 26: Rochester General Hospital, 35: University of California, San Diego, 12: Hennepin Healthcare, 24: Oregon Health & Science University, 26: Rochester General Hospital, 36: University of California, San Francisco
+Trace 1: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5
+Trace 2: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wonder Woman: 5, Spawn: 34
+End Match Trace for Applicant: 34: Spawn
+
+Match Trace for Applicant: 35: The Crow
+Applicant Rank List: 2: Beth Israel Deaconess, 37: University of Chicago Medicine, 23: The Ohio State University and Nationwide Children's Hospital
+Trace 1: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23
+Trace 2: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Rorschach: 16, Raphael: 23
+Trace 3: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4
+Trace 4: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wolverine: 4, The Crow: 35
+End Match Trace for Applicant: 35: The Crow
+
+Match Trace for Applicant: 36: Doctor Strange
+Applicant Rank List: 1: Baylor College of Medicine, 46: Washington University, 14: Houston Methodist Hospital, 18: Madigan Army Medical Center, 32: University at Buffalo, 41: University of North Carolina 
+Trace 1: 
+1: Baylor College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Gordon: 19
+Trace 2: 
+1: Baylor College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: James Gordon: 19
+Trace 3: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7
+Trace 4: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7
+Trace 5: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 6: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Swamp Thing: 27
+Trace 7: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Doctor Strange: 36
+End Match Trace for Applicant: 36: Doctor Strange
+
+Match Trace for Applicant: 37: Cyclops
+Applicant Rank List: 2: Beth Israel Deaconess, 9: Duke University School of Medicine, 25: Regenstrief Institute, 8: David Geffen School of Medicine at UCLA, 15: Icahn School of Medicine at Mount Sinai
+Trace 1: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23
+Trace 2: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+End Match Trace for Applicant: 37: Cyclops
+
+Match Trace for Applicant: 38: Mr Fantastic
+Applicant Rank List: 24: Oregon Health & Science University, 35: University of California, San Diego, 8: David Geffen School of Medicine at UCLA, 2: Beth Israel Deaconess, 18: Madigan Army Medical Center, 13: HonorHealth
+Trace 1: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+35: University of California, San Diego, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20
+Trace 4: 
+35: University of California, San Diego, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+End Match Trace for Applicant: 38: Mr Fantastic
+
+Match Trace for Applicant: 39: Silver Surfer
+Applicant Rank List: 46: Washington University, 25: Regenstrief Institute, 6: The Children's Hospital of Philadelphia, 11: Heart of Texas Community Health Center, 21: Northwestern University Program, 35: University of California, San Diego, 43: University of Virginia, 26: Rochester General Hospital, 37: University of Chicago Medicine
+Trace 1: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7
+Trace 2: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+End Match Trace for Applicant: 39: Silver Surfer
+
+Match Trace for Applicant: 40: Storm
+Applicant Rank List: 7: Columbia University Medical Center , 18: Madigan Army Medical Center, 23: The Ohio State University and Nationwide Children's Hospital, 14: Houston Methodist Hospital, 20: Mayo Clinic Rochester, 8: David Geffen School of Medicine at UCLA, 34: University of California, Irvine, 25: Regenstrief Institute, 15: Icahn School of Medicine at Mount Sinai, 31: University of Arkansas for Medical Sciences
+Trace 1: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 2: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 3: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36
+Trace 4: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Doctor Strange: 36
+Trace 5: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 7: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 8: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Swamp Thing: 27
+Trace 9: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 10: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Storm: 40
+Trace 11: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Storm: 40, James Maxwell: 67, bumper is: 93: Henry Ford
+Trace 12: 
+7: Columbia University Medical Center , on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 13: 
+7: Columbia University Medical Center , on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 14: 
+18: Madigan Army Medical Center, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41, William Harvey: 79
+Trace 15: 
+18: Madigan Army Medical Center, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41, William Harvey: 79
+Trace 16: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Aquaman: 45, Jonah Hex: 57, James: 94
+Trace 17: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Aquaman: 45, Jonah Hex: 57, James: 94
+Trace 18: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 19: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 20: 
+20: Mayo Clinic Rochester, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 21: 
+20: Mayo Clinic Rochester, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 22: 
+8: David Geffen School of Medicine at UCLA, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Adam Strange: 62, Galen: 76
+Trace 23: 
+8: David Geffen School of Medicine at UCLA, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Adam Strange: 62, Galen: 76
+Trace 24: 
+34: University of California, Irvine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 25: 
+34: University of California, Irvine, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Storm: 40
+End Match Trace for Applicant: 40: Storm
+
+Match Trace for Applicant: 41: Martin Manhunter
+Applicant Rank List: 7: Columbia University Medical Center , 18: Madigan Army Medical Center, 13: HonorHealth, 32: University at Buffalo, 32: University at Buffalo, 14: Houston Methodist Hospital
+Trace 1: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 2: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 3: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36
+Trace 4: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41
+End Match Trace for Applicant: 41: Martin Manhunter
+
+Match Trace for Applicant: 42: Hawkeye
+Applicant Rank List: 42: University of Texas Health Science Center San Antonio, 45: Vanderbilt University, 45: Vanderbilt University, 7: Columbia University Medical Center , 25: Regenstrief Institute, 30: University of Arizona College of Medicine
+Trace 1: 
+42: University of Texas Health Science Center San Antonio, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+42: University of Texas Health Science Center San Antonio, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 7: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 8: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 9: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 10: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 11: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 12: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 13: 
+42: University of Texas Health Science Center San Antonio, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hedy Lamarr: 99
+Trace 14: 
+42: University of Texas Health Science Center San Antonio, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Hedy Lamarr: 99
+Trace 15: 
+45: Vanderbilt University, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 16: 
+45: Vanderbilt University, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 17: 
+45: Vanderbilt University, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 18: 
+45: Vanderbilt University, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 19: 
+7: Columbia University Medical Center , on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 20: 
+7: Columbia University Medical Center , on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 21: 
+25: Regenstrief Institute, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 22: 
+25: Regenstrief Institute, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: William Osler: 74
+Trace 23: 
+30: University of Arizona College of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Herman Hollerith: 96
+Trace 24: 
+30: University of Arizona College of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Herman Hollerith: 96
+Trace 25: 
+42: University of Texas Health Science Center San Antonio, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hedy Lamarr: 99
+Trace 26: 
+42: University of Texas Health Science Center San Antonio, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Hedy Lamarr: 99
+Trace 27: 
+45: Vanderbilt University, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 28: 
+45: Vanderbilt University, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 29: 
+45: Vanderbilt University, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 30: 
+45: Vanderbilt University, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 31: 
+7: Columbia University Medical Center , on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 32: 
+7: Columbia University Medical Center , on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 33: 
+25: Regenstrief Institute, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 34: 
+25: Regenstrief Institute, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: William Osler: 74
+Trace 35: 
+30: University of Arizona College of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Herman Hollerith: 96
+Trace 36: 
+30: University of Arizona College of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Herman Hollerith: 96
+End Match Trace for Applicant: 42: Hawkeye
+
+Match Trace for Applicant: 43: Human Torch
+Applicant Rank List: 15: Icahn School of Medicine at Mount Sinai, 28: Stanford School of Medicine, 40: University of New Mexico, 16: Kettering Health Network and Raj Soin Medical Center, 1: Baylor College of Medicine, 42: University of Texas Health Science Center San Antonio, 46: Washington University, 2: Beth Israel Deaconess, 39: University of Kansas School of Medicine, 42: University of Texas Health Science Center San Antonio
+Trace 1: 
+15: Icahn School of Medicine at Mount Sinai, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wally West: 8
+Trace 2: 
+15: Icahn School of Medicine at Mount Sinai, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Wally West: 8
+Trace 3: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43
+End Match Trace for Applicant: 43: Human Torch
+
+Match Trace for Applicant: 44: Black Panther
+Applicant Rank List: 40: University of New Mexico
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+End Match Trace for Applicant: 44: Black Panther
+
+Match Trace for Applicant: 45: Aquaman
+Applicant Rank List: 14: Houston Methodist Hospital, 40: University of New Mexico, 23: The Ohio State University and Nationwide Children's Hospital, 12: Hennepin Healthcare, 42: University of Texas Health Science Center San Antonio
+Trace 1: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 2: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Swamp Thing: 27
+Trace 3: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 4: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 5: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Aquaman: 45
+End Match Trace for Applicant: 45: Aquaman
+
+Match Trace for Applicant: 46: Bucky Barnes
+Applicant Rank List: 7: Columbia University Medical Center , 41: University of North Carolina , 14: Houston Methodist Hospital, 8: David Geffen School of Medicine at UCLA, 18: Madigan Army Medical Center, 18: Madigan Army Medical Center, 14: Houston Methodist Hospital, 9: Duke University School of Medicine, 2: Beth Israel Deaconess
+Trace 1: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 2: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 3: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 6: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Bucky Barnes: 46
+End Match Trace for Applicant: 46: Bucky Barnes
+
+Match Trace for Applicant: 47: Elijah Snow
+Applicant Rank List: 35: University of California, San Diego, 36: University of California, San Francisco, 44: Univeristy of Washington , 41: University of North Carolina , 34: University of California, Irvine, 21: Northwestern University Program, 4: Case Western Reserve University
+Trace 1: 
+35: University of California, San Diego, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 2: 
+35: University of California, San Diego, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 3: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 6: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Captain America: 6
+Trace 7: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 9: 
+34: University of California, Irvine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 10: 
+34: University of California, Irvine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 11: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jesse Custer: 32
+Trace 12: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+End Match Trace for Applicant: 47: Elijah Snow
+
+Match Trace for Applicant: 48: John Stewart
+Applicant Rank List: 4: Case Western Reserve University, 24: Oregon Health & Science University, 2: Beth Israel Deaconess, 36: University of California, San Francisco, 39: University of Kansas School of Medicine, 46: Washington University, 36: University of California, San Francisco, 10: Geisinger Health System, 18: Madigan Army Medical Center
+Trace 1: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 6: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 7: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 9: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 10: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 11: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 12: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 13: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 14: 
+36: University of California, San Francisco, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 15: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26
+Trace 16: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48
+End Match Trace for Applicant: 48: John Stewart
+
+Match Trace for Applicant: 49: Hawkman
+Applicant Rank List: 40: University of New Mexico, 3: Boston Children's Hospital, 25: Regenstrief Institute, 9: Duke University School of Medicine, 10: Geisinger Health System, 35: University of California, San Diego
+Trace 1: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 2: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 3: 
+3: Boston Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+3: Boston Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hawkman: 49
+Trace 7: 
+25: Regenstrief Institute, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hawkman: 49, bumper is: 74: William Osler
+Trace 8: 
+25: Regenstrief Institute, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hawkman: 49, bumper is: 74: William Osler
+Trace 9: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 10: 
+40: University of New Mexico, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 11: 
+3: Boston Children's Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 12: 
+3: Boston Children's Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 13: 
+25: Regenstrief Institute, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 14: 
+25: Regenstrief Institute, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: William Osler: 74, bumper is: 49: Hawkman
+Trace 15: 
+25: Regenstrief Institute, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: William Osler: 74
+Trace 16: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 17: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6, bumper is: 49: Hawkman
+Trace 18: 
+9: Duke University School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 19: 
+10: Geisinger Health System, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 20: 
+10: Geisinger Health System, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 21: 
+35: University of California, San Diego, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 22: 
+35: University of California, San Diego, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 23: 
+40: University of New Mexico, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 24: 
+40: University of New Mexico, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 25: 
+3: Boston Children's Hospital, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 26: 
+3: Boston Children's Hospital, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 27: 
+25: Regenstrief Institute, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 28: 
+25: Regenstrief Institute, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: William Osler: 74, bumper is: 49: Hawkman
+Trace 29: 
+25: Regenstrief Institute, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: William Osler: 74
+Trace 30: 
+9: Duke University School of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 31: 
+9: Duke University School of Medicine, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6, bumper is: 49: Hawkman
+Trace 32: 
+9: Duke University School of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 33: 
+10: Geisinger Health System, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 34: 
+10: Geisinger Health System, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 35: 
+35: University of California, San Diego, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 36: 
+35: University of California, San Diego, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+End Match Trace for Applicant: 49: Hawkman
+
+Match Trace for Applicant: 50: The Tick
+Applicant Rank List: 8: David Geffen School of Medicine at UCLA, 6: The Children's Hospital of Philadelphia, 20: Mayo Clinic Rochester, 40: University of New Mexico, 17: LSU Health Shreveport and Ochsner Health System, 22: NYU Grossman, 43: University of Virginia, 26: Rochester General Hospital
+Trace 1: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Nick Fury: 31
+Trace 4: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Nick Fury: 31
+Trace 5: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Storm: 40
+Trace 6: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Storm: 40
+Trace 7: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 8: 
+40: University of New Mexico, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44, bumper is: 50: The Tick
+Trace 9: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 10: 
+17: LSU Health Shreveport and Ochsner Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: The Spirit: 21, Dudge Dredd: 33
+Trace 11: 
+17: LSU Health Shreveport and Ochsner Health System, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: The Spirit: 21, Dudge Dredd: 33
+Trace 12: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 13: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 14: 
+43: University of Virginia, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thing: 18
+Trace 15: 
+43: University of Virginia, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thing: 18, The Tick: 50
+End Match Trace for Applicant: 50: The Tick
+
+Match Trace for Applicant: 51: Booster Gold
+Applicant Rank List: 12: Hennepin Healthcare, 13: HonorHealth, 45: Vanderbilt University, 28: Stanford School of Medicine, 12: Hennepin Healthcare
+Trace 1: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13
+Trace 2: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 3: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51, bumper is: 14: Thor
+Trace 4: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51, bumper is: 14: Thor
+Trace 5: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 6: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Jean Grey: 13, Thor: 14, bumper is: 51: Booster Gold
+Trace 7: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 8: 
+13: HonorHealth, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66
+Trace 9: 
+13: HonorHealth, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+End Match Trace for Applicant: 51: Booster Gold
+
+Match Trace for Applicant: 52: Blade
+Applicant Rank List: 29: Stony Brook, 22: NYU Grossman, 16: Kettering Health Network and Raj Soin Medical Center
+Trace 1: 
+29: Stony Brook, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+29: Stony Brook, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Blade: 52
+End Match Trace for Applicant: 52: Blade
+
+Match Trace for Applicant: 53: Gambit
+Applicant Rank List: 37: University of Chicago Medicine, 19: Massachusetts General Hospital, 47: Yale/VA, 46: Washington University, 24: Oregon Health & Science University
+Trace 1: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4, The Crow: 35
+Trace 2: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wolverine: 4, The Crow: 35, Gambit: 53
+End Match Trace for Applicant: 53: Gambit
+
+Match Trace for Applicant: 54: Invisible Woman
+Applicant Rank List: 8: David Geffen School of Medicine at UCLA, 46: Washington University, 7: Columbia University Medical Center , 44: Univeristy of Washington , 45: Vanderbilt University, 21: Northwestern University Program, 44: Univeristy of Washington , 44: Univeristy of Washington , 1: Baylor College of Medicine
+Trace 1: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 4: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 5: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 6: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 7: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 8: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Invisible Woman: 54
+End Match Trace for Applicant: 54: Invisible Woman
+
+Match Trace for Applicant: 55: Iron Fist
+Applicant Rank List: 31: University of Arkansas for Medical Sciences, 28: Stanford School of Medicine
+Trace 1: 
+31: University of Arkansas for Medical Sciences, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+31: University of Arkansas for Medical Sciences, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43
+Trace 4: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Iron Fist: 55
+Trace 5: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Human Torch: 43, Iron Fist: 55, Black Widow: 58, bumper is: 65: Albert Einstein
+Trace 6: 
+31: University of Arkansas for Medical Sciences, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Charles Darwin: 69
+Trace 7: 
+31: University of Arkansas for Medical Sciences, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Charles Darwin: 69
+Trace 8: 
+28: Stanford School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 9: 
+28: Stanford School of Medicine, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 10: 
+28: Stanford School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 11: 
+31: University of Arkansas for Medical Sciences, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Charles Darwin: 69
+Trace 12: 
+31: University of Arkansas for Medical Sciences, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Charles Darwin: 69
+Trace 13: 
+28: Stanford School of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 14: 
+28: Stanford School of Medicine, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 15: 
+28: Stanford School of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+End Match Trace for Applicant: 55: Iron Fist
+
+Match Trace for Applicant: 56: Luke Cage
+Applicant Rank List: 26: Rochester General Hospital, 40: University of New Mexico, 45: Vanderbilt University, 36: University of California, San Francisco, 15: Icahn School of Medicine at Mount Sinai, 23: The Ohio State University and Nationwide Children's Hospital
+Trace 1: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34
+Trace 2: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34
+Trace 3: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 4: 
+40: University of New Mexico, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+End Match Trace for Applicant: 56: Luke Cage
+
+Match Trace for Applicant: 57: Jonah Hex
+Applicant Rank List: 24: Oregon Health & Science University, 5: Cedars-Sinai Medical Center, 23: The Ohio State University and Nationwide Children's Hospital, 21: Northwestern University Program, 34: University of California, Irvine, 4: Case Western Reserve University, 31: University of Arkansas for Medical Sciences
+Trace 1: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Superman: 1
+Trace 4: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Superman: 1, bumper is: 57: Jonah Hex
+Trace 5: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Superman: 1
+Trace 6: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Aquaman: 45
+Trace 7: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Aquaman: 45, Jonah Hex: 57
+End Match Trace for Applicant: 57: Jonah Hex
+
+Match Trace for Applicant: 58: Black Widow
+Applicant Rank List: 5: Cedars-Sinai Medical Center, 28: Stanford School of Medicine, 27: Sidney Kimmel Medical College Thomas Jefferson, 31: University of Arkansas for Medical Sciences, 9: Duke University School of Medicine, 9: Duke University School of Medicine
+Trace 1: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Superman: 1
+Trace 2: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Superman: 1
+Trace 3: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Iron Fist: 55
+Trace 4: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Iron Fist: 55, Black Widow: 58
+End Match Trace for Applicant: 58: Black Widow
+
+Match Trace for Applicant: 59: The Rocketeer
+Applicant Rank List: 14: Houston Methodist Hospital
+Trace 1: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 2: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 3: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 4: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 5: 
+14: Houston Methodist Hospital, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 6: 
+14: Houston Methodist Hospital, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+End Match Trace for Applicant: 59: The Rocketeer
+
+Match Trace for Applicant: 60: Ghost Rider
+Applicant Rank List: 24: Oregon Health & Science University, 42: University of Texas Health Science Center San Antonio, 8: David Geffen School of Medicine at UCLA, 22: NYU Grossman, 28: Stanford School of Medicine, 35: University of California, San Diego, 16: Kettering Health Network and Raj Soin Medical Center
+Trace 1: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Ghost Rider: 60
+End Match Trace for Applicant: 60: Ghost Rider
+
+Match Trace for Applicant: 61: Falcon
+Applicant Rank List: 7: Columbia University Medical Center , 4: Case Western Reserve University, 15: Icahn School of Medicine at Mount Sinai, 23: The Ohio State University and Nationwide Children's Hospital, 12: Hennepin Healthcare, 17: LSU Health Shreveport and Ochsner Health System, 12: Hennepin Healthcare
+Trace 1: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 2: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Tim Drake: 30, bumper is: 61: Falcon
+Trace 3: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 4: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Falcon: 61
+End Match Trace for Applicant: 61: Falcon
+
+Match Trace for Applicant: 62: Adam Strange
+Applicant Rank List: 8: David Geffen School of Medicine at UCLA
+Trace 1: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Adam Strange: 62
+End Match Trace for Applicant: 62: Adam Strange
+
+Match Trace for Applicant: 63: Wasp
+Applicant Rank List: 34: University of California, Irvine, 44: Univeristy of Washington , 47: Yale/VA, 33: University of California Davis Health, 8: David Geffen School of Medicine at UCLA, 45: Vanderbilt University, 11: Heart of Texas Community Health Center, 39: University of Kansas School of Medicine, 41: University of North Carolina , 3: Boston Children's Hospital
+Trace 1: 
+34: University of California, Irvine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+34: University of California, Irvine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+Trace 4: 
+44: Univeristy of Washington , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Invisible Woman: 54
+Trace 5: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: John Constantine: 28
+Trace 6: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: John Constantine: 28
+Trace 7: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24
+Trace 8: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Yorick Brown: 24, Wasp: 63
+End Match Trace for Applicant: 63: Wasp
+
+Match Trace for Applicant: 64: Nova
+Applicant Rank List: 14: Houston Methodist Hospital, 16: Kettering Health Network and Raj Soin Medical Center, 39: University of Kansas School of Medicine
+Trace 1: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 2: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 3: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 6: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 7: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 8: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 9: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 10: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 11: 
+39: University of Kansas School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 12: 
+39: University of Kansas School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 13: 
+14: Houston Methodist Hospital, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 14: 
+14: Houston Methodist Hospital, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 15: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 16: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 17: 
+39: University of Kansas School of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 18: 
+39: University of Kansas School of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Barbara Gordon: 17
+End Match Trace for Applicant: 64: Nova
+
+Match Trace for Applicant: 65: Albert Einstein
+Applicant Rank List: 46: Washington University, 28: Stanford School of Medicine, 16: Kettering Health Network and Raj Soin Medical Center, 16: Kettering Health Network and Raj Soin Medical Center, 22: NYU Grossman, 25: Regenstrief Institute, 41: University of North Carolina , 6: The Children's Hospital of Philadelphia, 18: Madigan Army Medical Center
+Trace 1: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 2: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 3: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Iron Fist: 55, Black Widow: 58
+Trace 4: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65
+End Match Trace for Applicant: 65: Albert Einstein
+
+Match Trace for Applicant: 66: Sir Isaac Newton
+Applicant Rank List: 11: Heart of Texas Community Health Center, 13: HonorHealth, 19: Massachusetts General Hospital, 9: Duke University School of Medicine
+Trace 1: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+13: HonorHealth, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+13: HonorHealth, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Sir Isaac Newton: 66
+End Match Trace for Applicant: 66: Sir Isaac Newton
+
+Match Trace for Applicant: 67: James Maxwell
+Applicant Rank List: 20: Mayo Clinic Rochester, 16: Kettering Health Network and Raj Soin Medical Center, 6: The Children's Hospital of Philadelphia, 2: Beth Israel Deaconess
+Trace 1: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Storm: 40
+Trace 2: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Storm: 40, James Maxwell: 67
+End Match Trace for Applicant: 67: James Maxwell
+
+Match Trace for Applicant: 68: Galileo Galilei
+Applicant Rank List: 11: Heart of Texas Community Health Center, 11: Heart of Texas Community Health Center, 7: Columbia University Medical Center 
+Trace 1: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 6: 
+7: Columbia University Medical Center , on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 7: 
+11: Heart of Texas Community Health Center, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+11: Heart of Texas Community Health Center, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 9: 
+11: Heart of Texas Community Health Center, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 10: 
+11: Heart of Texas Community Health Center, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 11: 
+7: Columbia University Medical Center , on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 12: 
+7: Columbia University Medical Center , on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 13: 
+11: Heart of Texas Community Health Center, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 14: 
+11: Heart of Texas Community Health Center, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 15: 
+11: Heart of Texas Community Health Center, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 16: 
+11: Heart of Texas Community Health Center, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 17: 
+7: Columbia University Medical Center , on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 18: 
+7: Columbia University Medical Center , on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+End Match Trace for Applicant: 68: Galileo Galilei
+
+Match Trace for Applicant: 69: Charles Darwin
+Applicant Rank List: 31: University of Arkansas for Medical Sciences, 5: Cedars-Sinai Medical Center
+Trace 1: 
+31: University of Arkansas for Medical Sciences, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+31: University of Arkansas for Medical Sciences, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Charles Darwin: 69
+End Match Trace for Applicant: 69: Charles Darwin
+
+Match Trace for Applicant: 70: Louis Pasteur
+Applicant Rank List: 46: Washington University, 3: Boston Children's Hospital, 30: University of Arizona College of Medicine, 32: University at Buffalo
+Trace 1: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 2: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 3: 
+3: Boston Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+3: Boston Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Louis Pasteur: 70
+End Match Trace for Applicant: 70: Louis Pasteur
+
+Match Trace for Applicant: 71: Edwin Hubble
+Applicant Rank List: 47: Yale/VA
+Trace 1: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: John Constantine: 28
+Trace 2: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: John Constantine: 28, Edwin Hubble: 71
+End Match Trace for Applicant: 71: Edwin Hubble
+
+Match Trace for Applicant: 72: Thomas Edison
+Applicant Rank List: 24: Oregon Health & Science University, 41: University of North Carolina , 7: Columbia University Medical Center , 20: Mayo Clinic Rochester, 3: Boston Children's Hospital, 21: Northwestern University Program
+Trace 1: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60
+Trace 2: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Ghost Rider: 60
+Trace 3: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thomas Edison: 72
+End Match Trace for Applicant: 72: Thomas Edison
+
+Match Trace for Applicant: 73: Hippocrates
+Applicant Rank List: 4: Case Western Reserve University, 18: Madigan Army Medical Center, 18: Madigan Army Medical Center, 40: University of New Mexico, 24: Oregon Health & Science University, 23: The Ohio State University and Nationwide Children's Hospital, 25: Regenstrief Institute, 7: Columbia University Medical Center 
+Trace 1: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61
+Trace 2: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Falcon: 61, Hippocrates: 73
+End Match Trace for Applicant: 73: Hippocrates
+
+Match Trace for Applicant: 74: William Osler
+Applicant Rank List: 4: Case Western Reserve University, 25: Regenstrief Institute, 46: Washington University, 30: University of Arizona College of Medicine, 9: Duke University School of Medicine
+Trace 1: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73
+Trace 2: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73
+Trace 3: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hawkman: 49
+Trace 4: 
+25: Regenstrief Institute, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: William Osler: 74
+End Match Trace for Applicant: 74: William Osler
+
+Match Trace for Applicant: 75: Virginia Apgar
+Applicant Rank List: 21: Northwestern University Program, 22: NYU Grossman
+Trace 1: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 2: 
+21: Northwestern University Program, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47, bumper is: 75: Virginia Apgar
+Trace 3: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 4: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Virginia Apgar: 75
+End Match Trace for Applicant: 75: Virginia Apgar
+
+Match Trace for Applicant: 76: Galen
+Applicant Rank List: 14: Houston Methodist Hospital, 8: David Geffen School of Medicine at UCLA
+Trace 1: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 2: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 3: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Adam Strange: 62
+Trace 4: 
+8: David Geffen School of Medicine at UCLA, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Adam Strange: 62, Galen: 76
+End Match Trace for Applicant: 76: Galen
+
+Match Trace for Applicant: 77: John Hunter
+Applicant Rank List: 18: Madigan Army Medical Center, 38: University of Illinois at Chicago College of Medicine, 24: Oregon Health & Science University, 22: NYU Grossman, 5: Cedars-Sinai Medical Center, 32: University at Buffalo, 18: Madigan Army Medical Center, 25: Regenstrief Institute, 36: University of California, San Francisco
+Trace 1: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41
+Trace 2: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41
+Trace 3: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Dick Grayson: 11
+Trace 4: 
+38: University of Illinois at Chicago College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Dick Grayson: 11
+Trace 5: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60
+Trace 6: 
+24: Oregon Health & Science University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Ghost Rider: 60, John Hunter: 77
+End Match Trace for Applicant: 77: John Hunter
+
+Match Trace for Applicant: 78: Henry Heimlich
+Applicant Rank List: 6: The Children's Hospital of Philadelphia, 34: University of California, Irvine
+Trace 1: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Nick Fury: 31
+Trace 2: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Nick Fury: 31, Henry Heimlich: 78
+End Match Trace for Applicant: 78: Henry Heimlich
+
+Match Trace for Applicant: 79: William Harvey
+Applicant Rank List: 18: Madigan Army Medical Center, 31: University of Arkansas for Medical Sciences, 18: Madigan Army Medical Center, 5: Cedars-Sinai Medical Center, 10: Geisinger Health System, 26: Rochester General Hospital, 18: Madigan Army Medical Center, 47: Yale/VA, 46: Washington University
+Trace 1: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41
+Trace 2: 
+18: Madigan Army Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41, William Harvey: 79
+End Match Trace for Applicant: 79: William Harvey
+
+Match Trace for Applicant: 80: Henry Gray
+Applicant Rank List: 26: Rochester General Hospital, 22: NYU Grossman, 23: The Ohio State University and Nationwide Children's Hospital, 23: The Ohio State University and Nationwide Children's Hospital, 1: Baylor College of Medicine, 34: University of California, Irvine
+Trace 1: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34
+Trace 2: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+End Match Trace for Applicant: 80: Henry Gray
+
+Match Trace for Applicant: 81: Carl Jung
+Applicant Rank List: 15: Icahn School of Medicine at Mount Sinai, 2: Beth Israel Deaconess, 34: University of California, Irvine, 3: Boston Children's Hospital, 47: Yale/VA
+Trace 1: 
+15: Icahn School of Medicine at Mount Sinai, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wally West: 8
+Trace 2: 
+15: Icahn School of Medicine at Mount Sinai, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wally West: 8, Carl Jung: 81
+End Match Trace for Applicant: 81: Carl Jung
+
+Match Trace for Applicant: 82: Paul Ehrlich
+Applicant Rank List: 1: Baylor College of Medicine, 20: Mayo Clinic Rochester
+Trace 1: 
+1: Baylor College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Gordon: 19
+Trace 2: 
+1: Baylor College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: James Gordon: 19, Paul Ehrlich: 82
+End Match Trace for Applicant: 82: Paul Ehrlich
+
+Match Trace for Applicant: 83: Harvey Cushing
+Applicant Rank List: 22: NYU Grossman, 19: Massachusetts General Hospital, 13: HonorHealth, 23: The Ohio State University and Nationwide Children's Hospital, 19: Massachusetts General Hospital
+Trace 1: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75
+Trace 2: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Virginia Apgar: 75
+Trace 3: 
+19: Massachusetts General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Iron Man: 12
+Trace 4: 
+19: Massachusetts General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Iron Man: 12, Harvey Cushing: 83
+End Match Trace for Applicant: 83: Harvey Cushing
+
+Match Trace for Applicant: 84: Charles Mayo
+Applicant Rank List: 46: Washington University, 47: Yale/VA, 5: Cedars-Sinai Medical Center, 36: University of California, San Francisco, 4: Case Western Reserve University, 39: University of Kansas School of Medicine, 22: NYU Grossman, 15: Icahn School of Medicine at Mount Sinai, 38: University of Illinois at Chicago College of Medicine, 17: LSU Health Shreveport and Ochsner Health System
+Trace 1: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 2: 
+46: Washington University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39, Charles Mayo: 84
+End Match Trace for Applicant: 84: Charles Mayo
+
+Match Trace for Applicant: 85: Otto Fritz Meyerhof
+Applicant Rank List: 10: Geisinger Health System, 9: Duke University School of Medicine, 19: Massachusetts General Hospital, 13: HonorHealth, 18: Madigan Army Medical Center
+Trace 1: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48
+Trace 2: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+End Match Trace for Applicant: 85: Otto Fritz Meyerhof
+
+Match Trace for Applicant: 86: Jonas Salk
+Applicant Rank List: 28: Stanford School of Medicine, 2: Beth Israel Deaconess
+Trace 1: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65
+Trace 2: 
+28: Stanford School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65
+Trace 3: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 4: 
+2: Beth Israel Deaconess, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 5: 
+28: Stanford School of Medicine, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 6: 
+28: Stanford School of Medicine, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 7: 
+2: Beth Israel Deaconess, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 8: 
+2: Beth Israel Deaconess, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 9: 
+28: Stanford School of Medicine, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 10: 
+28: Stanford School of Medicine, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 11: 
+2: Beth Israel Deaconess, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 12: 
+2: Beth Israel Deaconess, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+End Match Trace for Applicant: 86: Jonas Salk
+
+Match Trace for Applicant: 87: Alexander Graham Bell
+Applicant Rank List: 47: Yale/VA, 39: University of Kansas School of Medicine, 30: University of Arizona College of Medicine, 21: Northwestern University Program, 22: NYU Grossman, 1: Baylor College of Medicine, 22: NYU Grossman
+Trace 1: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: John Constantine: 28, Edwin Hubble: 71
+Trace 2: 
+47: Yale/VA, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: John Constantine: 28, Edwin Hubble: 71
+Trace 3: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 4: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 5: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 7: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 8: 
+21: Northwestern University Program, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 9: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75
+Trace 10: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+End Match Trace for Applicant: 87: Alexander Graham Bell
+
+Match Trace for Applicant: 88: George Washington Carver
+Applicant Rank List: 3: Boston Children's Hospital, 11: Heart of Texas Community Health Center, 32: University at Buffalo, 6: The Children's Hospital of Philadelphia, 32: University at Buffalo, 22: NYU Grossman, 20: Mayo Clinic Rochester, 42: University of Texas Health Science Center San Antonio
+Trace 1: 
+3: Boston Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 2: 
+3: Boston Children's Hospital, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Louis Pasteur: 70, bumper is: 88: George Washington Carver
+Trace 3: 
+3: Boston Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 4: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+11: Heart of Texas Community Health Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 6: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 7: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 8: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Nick Fury: 31, Henry Heimlich: 78
+Trace 9: 
+6: The Children's Hospital of Philadelphia, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Nick Fury: 31, Henry Heimlich: 78, George Washington Carver: 88
+End Match Trace for Applicant: 88: George Washington Carver
+
+Match Trace for Applicant: 89: Eli Whitney
+Applicant Rank List: 16: Kettering Health Network and Raj Soin Medical Center, 14: Houston Methodist Hospital, 22: NYU Grossman, 26: Rochester General Hospital, 13: HonorHealth
+Trace 1: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 3: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 4: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 5: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 6: 
+22: NYU Grossman, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 7: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 8: 
+26: Rochester General Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 9: 
+13: HonorHealth, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66
+Trace 10: 
+13: HonorHealth, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Sir Isaac Newton: 66
+Trace 11: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 12: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 13: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 14: 
+14: Houston Methodist Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 15: 
+22: NYU Grossman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 16: 
+22: NYU Grossman, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 17: 
+26: Rochester General Hospital, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 18: 
+26: Rochester General Hospital, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 19: 
+13: HonorHealth, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+Trace 20: 
+13: HonorHealth, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+Trace 21: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 22: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 23: 
+14: Houston Methodist Hospital, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 24: 
+14: Houston Methodist Hospital, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 25: 
+22: NYU Grossman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 26: 
+22: NYU Grossman, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 27: 
+26: Rochester General Hospital, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 28: 
+26: Rochester General Hospital, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 29: 
+13: HonorHealth, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+Trace 30: 
+13: HonorHealth, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+End Match Trace for Applicant: 89: Eli Whitney
+
+Match Trace for Applicant: 90: Johannes Gutenberg
+Applicant Rank List: 41: University of North Carolina , 13: HonorHealth, 39: University of Kansas School of Medicine, 19: Massachusetts General Hospital
+Trace 1: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thomas Edison: 72
+Trace 2: 
+41: University of North Carolina , on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+End Match Trace for Applicant: 90: Johannes Gutenberg
+
+Match Trace for Applicant: 91: John Logie Baird
+Applicant Rank List: 37: University of Chicago Medicine, 4: Case Western Reserve University, 18: Madigan Army Medical Center, 28: Stanford School of Medicine, 23: The Ohio State University and Nationwide Children's Hospital, 31: University of Arkansas for Medical Sciences, 4: Case Western Reserve University
+Trace 1: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4, The Crow: 35, Gambit: 53
+Trace 2: 
+37: University of Chicago Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Wolverine: 4, The Crow: 35, Gambit: 53
+Trace 3: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73
+Trace 4: 
+4: Case Western Reserve University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+End Match Trace for Applicant: 91: John Logie Baird
+
+Match Trace for Applicant: 92: Benjamin Franklin
+Applicant Rank List: 14: Houston Methodist Hospital, 45: Vanderbilt University, 16: Kettering Health Network and Raj Soin Medical Center, 25: Regenstrief Institute, 11: Heart of Texas Community Health Center, 10: Geisinger Health System, 5: Cedars-Sinai Medical Center
+Trace 1: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 2: 
+14: Houston Methodist Hospital, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 3: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Benjamin Franklin: 92
+End Match Trace for Applicant: 92: Benjamin Franklin
+
+Match Trace for Applicant: 93: Henry Ford
+Applicant Rank List: 10: Geisinger Health System, 16: Kettering Health Network and Raj Soin Medical Center, 20: Mayo Clinic Rochester, 6: The Children's Hospital of Philadelphia, 15: Icahn School of Medicine at Mount Sinai, 11: Heart of Texas Community Health Center, 6: The Children's Hospital of Philadelphia
+Trace 1: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 2: 
+10: Geisinger Health System, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85, bumper is: 93: Henry Ford
+Trace 3: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 4: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+16: Kettering Health Network and Raj Soin Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 6: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Storm: 40, James Maxwell: 67
+Trace 7: 
+20: Mayo Clinic Rochester, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: James Maxwell: 67, Henry Ford: 93
+End Match Trace for Applicant: 93: Henry Ford
+
+Match Trace for Applicant: 94: James
+Applicant Rank List: 39: University of Kansas School of Medicine, 32: University at Buffalo, 32: University at Buffalo, 23: The Ohio State University and Nationwide Children's Hospital, 17: LSU Health Shreveport and Ochsner Health System, 32: University at Buffalo, 6: The Children's Hospital of Philadelphia, 14: Houston Methodist Hospital, 6: The Children's Hospital of Philadelphia
+Trace 1: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 2: 
+39: University of Kansas School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 3: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 5: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+32: University at Buffalo, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: N/A
+Trace 7: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Aquaman: 45, Jonah Hex: 57
+Trace 8: 
+23: The Ohio State University and Nationwide Children's Hospital, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Aquaman: 45, Jonah Hex: 57, James: 94
+End Match Trace for Applicant: 94: James
+
+Match Trace for Applicant: 95: Naismith
+Applicant Rank List: 9: Duke University School of Medicine, 23: The Ohio State University and Nationwide Children's Hospital, 32: University at Buffalo, 24: Oregon Health & Science University, 47: Yale/VA, 33: University of California Davis Health, 25: Regenstrief Institute, 16: Kettering Health Network and Raj Soin Medical Center
+Trace 1: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10
+Trace 2: 
+9: Duke University School of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Daredevil: 10, Naismith: 95
+End Match Trace for Applicant: 95: Naismith
+
+Match Trace for Applicant: 96: Herman Hollerith
+Applicant Rank List: 27: Sidney Kimmel Medical College Thomas Jefferson, 27: Sidney Kimmel Medical College Thomas Jefferson, 33: University of California Davis Health, 30: University of Arizona College of Medicine, 42: University of Texas Health Science Center San Antonio, 23: The Ohio State University and Nationwide Children's Hospital
+Trace 1: 
+27: Sidney Kimmel Medical College Thomas Jefferson, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Green Arrow: 29
+Trace 2: 
+27: Sidney Kimmel Medical College Thomas Jefferson, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Green Arrow: 29
+Trace 3: 
+27: Sidney Kimmel Medical College Thomas Jefferson, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Green Arrow: 29
+Trace 4: 
+27: Sidney Kimmel Medical College Thomas Jefferson, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Green Arrow: 29
+Trace 5: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 6: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 7: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+30: University of Arizona College of Medicine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Herman Hollerith: 96
+End Match Trace for Applicant: 96: Herman Hollerith
+
+Match Trace for Applicant: 97: Nikola Tesla
+Applicant Rank List: 12: Hennepin Healthcare, 33: University of California Davis Health
+Trace 1: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 2: 
+12: Hennepin Healthcare, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 3: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 4: 
+33: University of California Davis Health, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 5: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 6: 
+12: Hennepin Healthcare, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 7: 
+33: University of California Davis Health, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 8: 
+33: University of California Davis Health, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 9: 
+12: Hennepin Healthcare, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 10: 
+12: Hennepin Healthcare, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 11: 
+33: University of California Davis Health, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 12: 
+33: University of California Davis Health, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+End Match Trace for Applicant: 97: Nikola Tesla
+
+Match Trace for Applicant: 98: James Dyson
+Applicant Rank List: 5: Cedars-Sinai Medical Center, 10: Geisinger Health System, 6: The Children's Hospital of Philadelphia, 4: Case Western Reserve University, 36: University of California, San Francisco, 5: Cedars-Sinai Medical Center, 18: Madigan Army Medical Center
+Trace 1: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Superman: 1
+Trace 2: 
+5: Cedars-Sinai Medical Center, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Superman: 1
+Trace 3: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 4: 
+10: Geisinger Health System, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+End Match Trace for Applicant: 98: James Dyson
+
+Match Trace for Applicant: 99: Hedy Lamarr
+Applicant Rank List: 45: Vanderbilt University, 42: University of Texas Health Science Center San Antonio, 8: David Geffen School of Medicine at UCLA, 38: University of Illinois at Chicago College of Medicine, 45: Vanderbilt University
+Trace 1: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 2: 
+45: Vanderbilt University, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 3: 
+42: University of Texas Health Science Center San Antonio, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+42: University of Texas Health Science Center San Antonio, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hedy Lamarr: 99
+End Match Trace for Applicant: 99: Hedy Lamarr

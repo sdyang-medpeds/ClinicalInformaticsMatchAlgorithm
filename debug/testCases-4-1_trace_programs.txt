@@ -1,0 +1,1247 @@
+
+Match Trace for Program: 1: Baylor College of Medicine
+Program Rank List: 19: James Gordon, 43: Human Torch, 80: Henry Gray, 54: Invisible Woman, 82: Paul Ehrlich
+Constraints: 
+Constraint 10, can take 3 from James Gordon: 19, Human Torch: 43, Henry Gray: 80, Invisible Woman: 54
+Constraint 11, can take 1 from Invisible Woman: 54, Paul Ehrlich: 82
+Match attempts:
+Trace 1: 
+19: James Gordon, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+19: James Gordon, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: James Gordon: 19
+Trace 3: 
+36: Doctor Strange, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Gordon: 19
+Trace 4: 
+82: Paul Ehrlich, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Gordon: 19
+Trace 5: 
+82: Paul Ehrlich, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: James Gordon: 19, Paul Ehrlich: 82
+End Match Trace for Program: 1: Baylor College of Medicine
+
+Match Trace for Program: 2: Beth Israel Deaconess
+Program Rank List: 16: Rorschach, 37: Cyclops, 27: Swamp Thing, 38: Mr Fantastic, 23: Raphael, 8: Wally West
+No Constraints.
+Match attempts:
+Trace 1: 
+15: Morpheus, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+16: Rorschach, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+16: Rorschach, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rorschach: 16
+Trace 4: 
+23: Raphael, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16
+Trace 5: 
+23: Raphael, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rorschach: 16, Raphael: 23
+Trace 6: 
+35: The Crow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23
+Trace 7: 
+37: Cyclops, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23
+Trace 8: 
+37: Cyclops, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 9: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 10: 
+86: Jonas Salk, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 11: 
+15: Morpheus, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 12: 
+86: Jonas Salk, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 13: 
+15: Morpheus, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+Trace 14: 
+86: Jonas Salk, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rorschach: 16, Raphael: 23, Cyclops: 37
+End Match Trace for Program: 2: Beth Israel Deaconess
+
+Match Trace for Program: 3: Boston Children's Hospital
+Program Rank List: 33: Dudge Dredd, 70: Louis Pasteur, 88: George Washington Carver
+No Constraints.
+Match attempts:
+Trace 1: 
+49: Hawkman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+70: Louis Pasteur, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+70: Louis Pasteur, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Louis Pasteur: 70
+Trace 4: 
+88: George Washington Carver, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 5: 
+88: George Washington Carver, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 6: 
+88: George Washington Carver, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 7: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Louis Pasteur: 70
+Trace 8: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Louis Pasteur: 70
+End Match Trace for Program: 3: Boston Children's Hospital
+
+Match Trace for Program: 4: Case Western Reserve University
+Program Rank List: 91: John Logie Baird, 25: Rick Grimes, 73: Hippocrates, 84: Charles Mayo, 10: Daredevil, 61: Falcon
+No Constraints.
+Match attempts:
+Trace 1: 
+13: Jean Grey, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+15: Morpheus, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+61: Falcon, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+61: Falcon, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Falcon: 61
+Trace 6: 
+73: Hippocrates, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61
+Trace 7: 
+73: Hippocrates, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Falcon: 61, Hippocrates: 73
+Trace 8: 
+74: William Osler, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73
+Trace 9: 
+91: John Logie Baird, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73
+Trace 10: 
+91: John Logie Baird, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 11: 
+6: Captain America, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 12: 
+15: Morpheus, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+Trace 13: 
+15: Morpheus, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Falcon: 61, Hippocrates: 73, John Logie Baird: 91
+End Match Trace for Program: 4: Case Western Reserve University
+
+Match Trace for Program: 5: Cedars-Sinai Medical Center
+Program Rank List: 1: Superman, 92: Benjamin Franklin, 57: Jonah Hex
+No Constraints.
+Match attempts:
+Trace 1: 
+1: Superman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+1: Superman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Superman: 1
+Trace 3: 
+57: Jonah Hex, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Superman: 1
+Trace 4: 
+57: Jonah Hex, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Superman: 1
+Trace 5: 
+57: Jonah Hex, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Superman: 1
+Trace 6: 
+58: Black Widow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Superman: 1
+Trace 7: 
+98: James Dyson, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Superman: 1
+End Match Trace for Program: 5: Cedars-Sinai Medical Center
+
+Match Trace for Program: 6: The Children's Hospital of Philadelphia
+Program Rank List: 67: James Maxwell, 93: Henry Ford, 88: George Washington Carver, 78: Henry Heimlich, 31: Nick Fury
+No Constraints.
+Match attempts:
+Trace 1: 
+31: Nick Fury, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+31: Nick Fury, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Nick Fury: 31
+Trace 3: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Nick Fury: 31
+Trace 4: 
+78: Henry Heimlich, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Nick Fury: 31
+Trace 5: 
+78: Henry Heimlich, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Nick Fury: 31, Henry Heimlich: 78
+Trace 6: 
+88: George Washington Carver, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Nick Fury: 31, Henry Heimlich: 78
+Trace 7: 
+88: George Washington Carver, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Nick Fury: 31, Henry Heimlich: 78, George Washington Carver: 88
+End Match Trace for Program: 6: The Children's Hospital of Philadelphia
+
+Match Trace for Program: 7: Columbia University Medical Center 
+Program Rank List: 72: Thomas Edison, 30: Tim Drake, 61: Falcon
+No Constraints.
+Match attempts:
+Trace 1: 
+30: Tim Drake, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+30: Tim Drake, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Tim Drake: 30
+Trace 3: 
+40: Storm, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 4: 
+41: Martin Manhunter, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 5: 
+42: Hawkeye, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 6: 
+46: Bucky Barnes, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 7: 
+54: Invisible Woman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 8: 
+61: Falcon, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 9: 
+61: Falcon, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Tim Drake: 30
+Trace 10: 
+61: Falcon, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Tim Drake: 30
+Trace 11: 
+68: Galileo Galilei, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 12: 
+40: Storm, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 13: 
+42: Hawkeye, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 14: 
+68: Galileo Galilei, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 15: 
+42: Hawkeye, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+Trace 16: 
+68: Galileo Galilei, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Tim Drake: 30
+End Match Trace for Program: 7: Columbia University Medical Center 
+
+Match Trace for Program: 8: David Geffen School of Medicine at UCLA
+Program Rank List: 62: Adam Strange, 38: Mr Fantastic, 63: Wasp, 76: Galen, 99: Hedy Lamarr
+No Constraints.
+Match attempts:
+Trace 1: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+54: Invisible Woman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+62: Adam Strange, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+62: Adam Strange, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Adam Strange: 62
+Trace 5: 
+76: Galen, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Adam Strange: 62
+Trace 6: 
+76: Galen, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Adam Strange: 62, Galen: 76
+Trace 7: 
+40: Storm, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Adam Strange: 62, Galen: 76
+End Match Trace for Program: 8: David Geffen School of Medicine at UCLA
+
+Match Trace for Program: 9: Duke University School of Medicine
+Program Rank List: 6: Captain America, 95: Naismith, 46: Bucky Barnes, 85: Otto Fritz Meyerhof, 37: Cyclops, 10: Daredevil, 49: Hawkman
+No Constraints.
+Match attempts:
+Trace 1: 
+10: Daredevil, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+10: Daredevil, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Daredevil: 10
+Trace 3: 
+26: Punisher, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10
+Trace 4: 
+26: Punisher, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10
+Trace 5: 
+95: Naismith, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10
+Trace 6: 
+95: Naismith, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Daredevil: 10, Naismith: 95
+Trace 7: 
+6: Captain America, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95
+Trace 8: 
+6: Captain America, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 9: 
+26: Punisher, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 10: 
+26: Punisher, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 11: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 12: 
+49: Hawkman, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 13: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 14: 
+26: Punisher, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 15: 
+26: Punisher, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 16: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 17: 
+49: Hawkman, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+Trace 18: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Daredevil: 10, Naismith: 95, Captain America: 6
+End Match Trace for Program: 9: Duke University School of Medicine
+
+Match Trace for Program: 10: Geisinger Health System
+Program Rank List: 48: John Stewart, 98: James Dyson, 9: Hulk, 85: Otto Fritz Meyerhof, 31: Nick Fury, 26: Punisher, 93: Henry Ford
+No Constraints.
+Match attempts:
+Trace 1: 
+9: Hulk, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+9: Hulk, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9
+Trace 3: 
+26: Punisher, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9
+Trace 4: 
+26: Punisher, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, Punisher: 26
+Trace 5: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26
+Trace 6: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48
+Trace 7: 
+85: Otto Fritz Meyerhof, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48
+Trace 8: 
+85: Otto Fritz Meyerhof, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 9: 
+93: Henry Ford, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 10: 
+93: Henry Ford, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 11: 
+93: Henry Ford, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 12: 
+98: James Dyson, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 13: 
+26: Punisher, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 14: 
+26: Punisher, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, Punisher: 26, John Stewart: 48, Otto Fritz Meyerhof: 85
+Trace 15: 
+98: James Dyson, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 16: 
+26: Punisher, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 17: 
+26: Punisher, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 18: 
+26: Punisher, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 19: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 20: 
+26: Punisher, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 21: 
+26: Punisher, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 22: 
+26: Punisher, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+Trace 23: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hulk: 9, John Stewart: 48, Otto Fritz Meyerhof: 85, James Dyson: 98
+End Match Trace for Program: 10: Geisinger Health System
+
+Match Trace for Program: 11: Heart of Texas Community Health Center
+Program Rank List: 16: Rorschach, 92: Benjamin Franklin
+No Constraints.
+Match attempts:
+Trace 1: 
+66: Sir Isaac Newton, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+68: Galileo Galilei, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+68: Galileo Galilei, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+88: George Washington Carver, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+68: Galileo Galilei, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+68: Galileo Galilei, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 7: 
+68: Galileo Galilei, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 8: 
+68: Galileo Galilei, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+End Match Trace for Program: 11: Heart of Texas Community Health Center
+
+Match Trace for Program: 12: Hennepin Healthcare
+Program Rank List: 13: Jean Grey, 45: Aquaman, 14: Thor, 51: Booster Gold
+No Constraints.
+Match attempts:
+Trace 1: 
+13: Jean Grey, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+13: Jean Grey, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jean Grey: 13
+Trace 3: 
+15: Morpheus, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13
+Trace 4: 
+51: Booster Gold, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13
+Trace 5: 
+51: Booster Gold, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 6: 
+97: Nikola Tesla, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 7: 
+14: Thor, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 8: 
+51: Booster Gold, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 9: 
+51: Booster Gold, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Jean Grey: 13, Booster Gold: 51
+Trace 10: 
+14: Thor, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 11: 
+15: Morpheus, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 12: 
+27: Swamp Thing, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 13: 
+51: Booster Gold, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 14: 
+51: Booster Gold, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 15: 
+51: Booster Gold, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 16: 
+97: Nikola Tesla, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 17: 
+15: Morpheus, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+Trace 18: 
+97: Nikola Tesla, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jean Grey: 13, Thor: 14
+End Match Trace for Program: 12: Hennepin Healthcare
+
+Match Trace for Program: 13: HonorHealth
+Program Rank List: 85: Otto Fritz Meyerhof, 66: Sir Isaac Newton, 41: Martin Manhunter, 24: Yorick Brown, 51: Booster Gold, 83: Harvey Cushing
+No Constraints.
+Match attempts:
+Trace 1: 
+66: Sir Isaac Newton, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+66: Sir Isaac Newton, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Sir Isaac Newton: 66
+Trace 3: 
+89: Eli Whitney, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66
+Trace 4: 
+51: Booster Gold, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66
+Trace 5: 
+51: Booster Gold, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+Trace 6: 
+89: Eli Whitney, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+Trace 7: 
+89: Eli Whitney, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Sir Isaac Newton: 66, Booster Gold: 51
+End Match Trace for Program: 13: HonorHealth
+
+Match Trace for Program: 14: Houston Methodist Hospital
+Program Rank List: 46: Bucky Barnes, 27: Swamp Thing, 5: Wonder Woman
+No Constraints.
+Match attempts:
+Trace 1: 
+27: Swamp Thing, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+27: Swamp Thing, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Swamp Thing: 27
+Trace 3: 
+36: Doctor Strange, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 4: 
+40: Storm, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 5: 
+45: Aquaman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 6: 
+46: Bucky Barnes, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Swamp Thing: 27
+Trace 7: 
+27: Swamp Thing, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Swamp Thing: 27
+Trace 8: 
+27: Swamp Thing, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Swamp Thing: 27
+Trace 9: 
+46: Bucky Barnes, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Bucky Barnes: 46
+Trace 10: 
+59: The Rocketeer, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 11: 
+64: Nova, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 12: 
+76: Galen, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 13: 
+89: Eli Whitney, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 14: 
+92: Benjamin Franklin, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 15: 
+27: Swamp Thing, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 16: 
+27: Swamp Thing, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 17: 
+27: Swamp Thing, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 18: 
+40: Storm, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 19: 
+59: The Rocketeer, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 20: 
+64: Nova, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 21: 
+89: Eli Whitney, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 22: 
+59: The Rocketeer, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 23: 
+64: Nova, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+Trace 24: 
+89: Eli Whitney, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Bucky Barnes: 46
+End Match Trace for Program: 14: Houston Methodist Hospital
+
+Match Trace for Program: 15: Icahn School of Medicine at Mount Sinai
+Program Rank List: 61: Falcon, 37: Cyclops, 21: The Spirit, 81: Carl Jung, 8: Wally West, 56: Luke Cage, 84: Charles Mayo
+No Constraints.
+Match attempts:
+Trace 1: 
+8: Wally West, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+8: Wally West, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wally West: 8
+Trace 3: 
+43: Human Torch, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wally West: 8
+Trace 4: 
+81: Carl Jung, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wally West: 8
+Trace 5: 
+81: Carl Jung, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wally West: 8, Carl Jung: 81
+End Match Trace for Program: 15: Icahn School of Medicine at Mount Sinai
+
+Match Trace for Program: 16: Kettering Health Network and Raj Soin Medical Center
+Program Rank List: 65: Albert Einstein, 13: Jean Grey, 60: Ghost Rider
+No Constraints.
+Match attempts:
+Trace 1: 
+64: Nova, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+89: Eli Whitney, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+93: Henry Ford, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+64: Nova, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+89: Eli Whitney, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+64: Nova, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 7: 
+89: Eli Whitney, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+End Match Trace for Program: 16: Kettering Health Network and Raj Soin Medical Center
+
+Match Trace for Program: 17: LSU Health Shreveport and Ochsner Health System
+Program Rank List: 24: Yorick Brown, 21: The Spirit, 4: Wolverine, 61: Falcon, 33: Dudge Dredd
+No Constraints.
+Match attempts:
+Trace 1: 
+21: The Spirit, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+21: The Spirit, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: The Spirit: 21
+Trace 3: 
+33: Dudge Dredd, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: The Spirit: 21
+Trace 4: 
+33: Dudge Dredd, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: The Spirit: 21, Dudge Dredd: 33
+Trace 5: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: The Spirit: 21, Dudge Dredd: 33
+End Match Trace for Program: 17: LSU Health Shreveport and Ochsner Health System
+
+Match Trace for Program: 18: Madigan Army Medical Center
+Program Rank List: 41: Martin Manhunter, 46: Bucky Barnes, 73: Hippocrates, 36: Doctor Strange, 91: John Logie Baird, 79: William Harvey, 85: Otto Fritz Meyerhof
+No Constraints.
+Match attempts:
+Trace 1: 
+36: Doctor Strange, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+36: Doctor Strange, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Doctor Strange: 36
+Trace 3: 
+40: Storm, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36
+Trace 4: 
+41: Martin Manhunter, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36
+Trace 5: 
+41: Martin Manhunter, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41
+Trace 6: 
+77: John Hunter, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41
+Trace 7: 
+79: William Harvey, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41
+Trace 8: 
+79: William Harvey, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41, William Harvey: 79
+Trace 9: 
+40: Storm, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Doctor Strange: 36, Martin Manhunter: 41, William Harvey: 79
+End Match Trace for Program: 18: Madigan Army Medical Center
+
+Match Trace for Program: 19: Massachusetts General Hospital
+Program Rank List: 12: Iron Man, 53: Gambit, 83: Harvey Cushing
+No Constraints.
+Match attempts:
+Trace 1: 
+12: Iron Man, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+12: Iron Man, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Iron Man: 12
+Trace 3: 
+83: Harvey Cushing, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Iron Man: 12
+Trace 4: 
+83: Harvey Cushing, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Iron Man: 12, Harvey Cushing: 83
+End Match Trace for Program: 19: Massachusetts General Hospital
+
+Match Trace for Program: 20: Mayo Clinic Rochester
+Program Rank List: 67: James Maxwell, 72: Thomas Edison, 29: Green Arrow, 93: Henry Ford, 40: Storm, 82: Paul Ehrlich, 32: Jesse Custer
+Constraints: 
+Constraint 3, can take 2 from James Maxwell: 67, Thomas Edison: 72, Green Arrow: 29
+Constraint 4, can take 1 from Henry Ford: 93, Storm: 40
+Constraint 5, can take 1 from Paul Ehrlich: 82, Jesse Custer: 32
+Match attempts:
+Trace 1: 
+12: Iron Man, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+15: Morpheus, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+28: John Constantine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+40: Storm, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+40: Storm, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Storm: 40
+Trace 6: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Storm: 40
+Trace 7: 
+67: James Maxwell, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Storm: 40
+Trace 8: 
+67: James Maxwell, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Storm: 40, James Maxwell: 67
+Trace 9: 
+93: Henry Ford, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Storm: 40, James Maxwell: 67
+Trace 10: 
+40: Storm, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Storm: 40, James Maxwell: 67
+Trace 11: 
+93: Henry Ford, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 12: 
+15: Morpheus, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 13: 
+40: Storm, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 14: 
+40: Storm, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+Trace 15: 
+15: Morpheus, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: James Maxwell: 67, Henry Ford: 93
+End Match Trace for Program: 20: Mayo Clinic Rochester
+
+Match Trace for Program: 21: Northwestern University Program
+Program Rank List: 47: Elijah Snow, 72: Thomas Edison, 39: Silver Surfer, 32: Jesse Custer, 75: Virginia Apgar, 54: Invisible Woman
+No Constraints.
+Match attempts:
+Trace 1: 
+32: Jesse Custer, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+32: Jesse Custer, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jesse Custer: 32
+Trace 3: 
+47: Elijah Snow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jesse Custer: 32
+Trace 4: 
+47: Elijah Snow, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 5: 
+75: Virginia Apgar, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 6: 
+75: Virginia Apgar, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 7: 
+75: Virginia Apgar, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+Trace 8: 
+87: Alexander Graham Bell, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Jesse Custer: 32, Elijah Snow: 47
+End Match Trace for Program: 21: Northwestern University Program
+
+Match Trace for Program: 22: NYU Grossman
+Program Rank List: 31: Nick Fury, 84: Charles Mayo, 60: Ghost Rider, 75: Virginia Apgar, 87: Alexander Graham Bell
+No Constraints.
+Match attempts:
+Trace 1: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+75: Virginia Apgar, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+75: Virginia Apgar, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Virginia Apgar: 75
+Trace 4: 
+83: Harvey Cushing, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75
+Trace 5: 
+87: Alexander Graham Bell, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75
+Trace 6: 
+87: Alexander Graham Bell, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 7: 
+89: Eli Whitney, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 8: 
+89: Eli Whitney, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+Trace 9: 
+89: Eli Whitney, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Virginia Apgar: 75, Alexander Graham Bell: 87
+End Match Trace for Program: 22: NYU Grossman
+
+Match Trace for Program: 23: The Ohio State University and Nationwide Children's Hospital
+Program Rank List: 45: Aquaman, 91: John Logie Baird, 61: Falcon, 20: Catwoman, 95: Naismith, 94: James, 57: Jonah Hex, 83: Harvey Cushing, 96: Herman Hollerith, 80: Henry Gray
+No Constraints.
+Match attempts:
+Trace 1: 
+24: Yorick Brown, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+40: Storm, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+45: Aquaman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+45: Aquaman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Aquaman: 45
+Trace 5: 
+57: Jonah Hex, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Aquaman: 45
+Trace 6: 
+57: Jonah Hex, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Aquaman: 45, Jonah Hex: 57
+Trace 7: 
+94: James, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Aquaman: 45, Jonah Hex: 57
+Trace 8: 
+94: James, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Aquaman: 45, Jonah Hex: 57, James: 94
+Trace 9: 
+40: Storm, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Aquaman: 45, Jonah Hex: 57, James: 94
+End Match Trace for Program: 23: The Ohio State University and Nationwide Children's Hospital
+
+Match Trace for Program: 24: Oregon Health & Science University
+Program Rank List: 95: Naismith, 77: John Hunter, 53: Gambit, 60: Ghost Rider
+Constraints: 
+Constraint 1, can take 1 from Naismith: 95, John Hunter: 77
+Constraint 2, can take 1 from John Hunter: 77, Gambit: 53
+Match attempts:
+Trace 1: 
+15: Morpheus, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+38: Mr Fantastic, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+57: Jonah Hex, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+60: Ghost Rider, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+60: Ghost Rider, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Ghost Rider: 60
+Trace 7: 
+72: Thomas Edison, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60
+Trace 8: 
+77: John Hunter, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60
+Trace 9: 
+77: John Hunter, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Ghost Rider: 60, John Hunter: 77
+Trace 10: 
+15: Morpheus, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60, John Hunter: 77
+Trace 11: 
+15: Morpheus, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Ghost Rider: 60, John Hunter: 77
+End Match Trace for Program: 24: Oregon Health & Science University
+
+Match Trace for Program: 25: Regenstrief Institute
+Program Rank List: 74: William Osler, 10: Daredevil, 49: Hawkman
+No Constraints.
+Match attempts:
+Trace 1: 
+9: Hulk, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+20: Catwoman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+42: Hawkeye, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+49: Hawkman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+49: Hawkman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hawkman: 49
+Trace 6: 
+74: William Osler, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hawkman: 49
+Trace 7: 
+49: Hawkman, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hawkman: 49
+Trace 8: 
+49: Hawkman, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Hawkman: 49
+Trace 9: 
+74: William Osler, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: William Osler: 74
+Trace 10: 
+42: Hawkeye, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 11: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 12: 
+49: Hawkman, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: William Osler: 74
+Trace 13: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: William Osler: 74
+Trace 14: 
+42: Hawkeye, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 15: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: William Osler: 74
+Trace 16: 
+49: Hawkman, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: William Osler: 74
+Trace 17: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: William Osler: 74
+End Match Trace for Program: 25: Regenstrief Institute
+
+Match Trace for Program: 26: Rochester General Hospital
+Program Rank List: 80: Henry Gray, 21: The Spirit, 34: Spawn, 5: Wonder Woman, 25: Rick Grimes, 79: William Harvey
+No Constraints.
+Match attempts:
+Trace 1: 
+5: Wonder Woman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+5: Wonder Woman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wonder Woman: 5
+Trace 3: 
+33: Dudge Dredd, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5
+Trace 4: 
+34: Spawn, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5
+Trace 5: 
+34: Spawn, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wonder Woman: 5, Spawn: 34
+Trace 6: 
+56: Luke Cage, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34
+Trace 7: 
+80: Henry Gray, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34
+Trace 8: 
+80: Henry Gray, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 9: 
+89: Eli Whitney, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 10: 
+89: Eli Whitney, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+Trace 11: 
+89: Eli Whitney, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wonder Woman: 5, Spawn: 34, Henry Gray: 80
+End Match Trace for Program: 26: Rochester General Hospital
+
+Match Trace for Program: 27: Sidney Kimmel Medical College Thomas Jefferson
+Program Rank List: 29: Green Arrow, 58: Black Widow
+No Constraints.
+Match attempts:
+Trace 1: 
+29: Green Arrow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+29: Green Arrow, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Green Arrow: 29
+Trace 3: 
+96: Herman Hollerith, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Green Arrow: 29
+Trace 4: 
+96: Herman Hollerith, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Green Arrow: 29
+End Match Trace for Program: 27: Sidney Kimmel Medical College Thomas Jefferson
+
+Match Trace for Program: 28: Stanford School of Medicine
+Program Rank List: 18: Thing, 27: Swamp Thing, 13: Jean Grey, 91: John Logie Baird, 58: Black Widow, 43: Human Torch, 65: Albert Einstein, 55: Iron Fist
+Constraints: 
+Constraint 8, can take 1 from John Logie Baird: 91, Black Widow: 58
+Constraint 9, can take 1 from Albert Einstein: 65, Iron Fist: 55
+Match attempts:
+Trace 1: 
+43: Human Torch, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+43: Human Torch, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43
+Trace 3: 
+55: Iron Fist, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43
+Trace 4: 
+55: Iron Fist, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Iron Fist: 55
+Trace 5: 
+58: Black Widow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Iron Fist: 55
+Trace 6: 
+58: Black Widow, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Iron Fist: 55, Black Widow: 58
+Trace 7: 
+65: Albert Einstein, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Iron Fist: 55, Black Widow: 58
+Trace 8: 
+55: Iron Fist, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Human Torch: 43, Iron Fist: 55, Black Widow: 58
+Trace 9: 
+65: Albert Einstein, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65
+Trace 10: 
+86: Jonas Salk, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65
+Trace 11: 
+27: Swamp Thing, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65
+Trace 12: 
+27: Swamp Thing, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 13: 
+55: Iron Fist, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 14: 
+55: Iron Fist, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 15: 
+55: Iron Fist, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 16: 
+86: Jonas Salk, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 17: 
+55: Iron Fist, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 18: 
+55: Iron Fist, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 19: 
+55: Iron Fist, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+Trace 20: 
+86: Jonas Salk, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Human Torch: 43, Black Widow: 58, Albert Einstein: 65, Swamp Thing: 27
+End Match Trace for Program: 28: Stanford School of Medicine
+
+Match Trace for Program: 29: Stony Brook
+Program Rank List: 4: Wolverine, 52: Blade
+No Constraints.
+Match attempts:
+Trace 1: 
+52: Blade, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+52: Blade, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Blade: 52
+End Match Trace for Program: 29: Stony Brook
+
+Match Trace for Program: 30: University of Arizona College of Medicine
+Program Rank List: 96: Herman Hollerith
+No Constraints.
+Match attempts:
+Trace 1: 
+20: Catwoman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+28: John Constantine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+42: Hawkeye, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+87: Alexander Graham Bell, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+96: Herman Hollerith, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+96: Herman Hollerith, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Herman Hollerith: 96
+Trace 7: 
+6: Captain America, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Herman Hollerith: 96
+Trace 8: 
+42: Hawkeye, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Herman Hollerith: 96
+Trace 9: 
+42: Hawkeye, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Herman Hollerith: 96
+End Match Trace for Program: 30: University of Arizona College of Medicine
+
+Match Trace for Program: 31: University of Arkansas for Medical Sciences
+Program Rank List: 91: John Logie Baird, 69: Charles Darwin, 40: Storm, 25: Rick Grimes, 79: William Harvey
+No Constraints.
+Match attempts:
+Trace 1: 
+55: Iron Fist, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+69: Charles Darwin, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+69: Charles Darwin, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Charles Darwin: 69
+Trace 4: 
+14: Thor, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Charles Darwin: 69
+Trace 5: 
+55: Iron Fist, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Charles Darwin: 69
+Trace 6: 
+55: Iron Fist, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Charles Darwin: 69
+End Match Trace for Program: 31: University of Arkansas for Medical Sciences
+
+Match Trace for Program: 32: University at Buffalo
+Program Rank List: 10: Daredevil, 41: Martin Manhunter
+No Constraints.
+Match attempts:
+Trace 1: 
+6: Captain America, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+28: John Constantine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+88: George Washington Carver, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+94: James, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+94: James, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+6: Captain America, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+End Match Trace for Program: 32: University at Buffalo
+
+Match Trace for Program: 33: University of California Davis Health
+Program Rank List: 33: Dudge Dredd, 95: Naismith, 10: Daredevil, 11: Dick Grayson, 24: Yorick Brown, 63: Wasp
+No Constraints.
+Match attempts:
+Trace 1: 
+24: Yorick Brown, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+24: Yorick Brown, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Yorick Brown: 24
+Trace 3: 
+63: Wasp, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24
+Trace 4: 
+63: Wasp, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 5: 
+96: Herman Hollerith, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 6: 
+97: Nikola Tesla, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 7: 
+97: Nikola Tesla, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+Trace 8: 
+97: Nikola Tesla, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Yorick Brown: 24, Wasp: 63
+End Match Trace for Program: 33: University of California Davis Health
+
+Match Trace for Program: 34: University of California, Irvine
+Program Rank List: 81: Carl Jung, 40: Storm, 57: Jonah Hex
+No Constraints.
+Match attempts:
+Trace 1: 
+47: Elijah Snow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+63: Wasp, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+40: Storm, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+40: Storm, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Storm: 40
+End Match Trace for Program: 34: University of California, Irvine
+
+Match Trace for Program: 35: University of California, San Diego
+Program Rank List: 31: Nick Fury, 10: Daredevil, 20: Catwoman, 34: Spawn, 60: Ghost Rider, 19: James Gordon, 38: Mr Fantastic
+No Constraints.
+Match attempts:
+Trace 1: 
+20: Catwoman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+20: Catwoman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Catwoman: 20
+Trace 3: 
+38: Mr Fantastic, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20
+Trace 4: 
+38: Mr Fantastic, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 5: 
+47: Elijah Snow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 6: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+Trace 7: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Catwoman: 20, Mr Fantastic: 38
+End Match Trace for Program: 35: University of California, San Diego
+
+Match Trace for Program: 36: University of California, San Francisco
+Program Rank List: 56: Luke Cage, 98: James Dyson
+No Constraints.
+Match attempts:
+Trace 1: 
+1: Superman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+3: Spiderman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+47: Elijah Snow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+3: Spiderman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 7: 
+3: Spiderman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+End Match Trace for Program: 36: University of California, San Francisco
+
+Match Trace for Program: 37: University of Chicago Medicine
+Program Rank List: 4: Wolverine, 53: Gambit, 39: Silver Surfer, 29: Green Arrow, 5: Wonder Woman, 35: The Crow
+No Constraints.
+Match attempts:
+Trace 1: 
+4: Wolverine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+4: Wolverine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wolverine: 4
+Trace 3: 
+18: Thing, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4
+Trace 4: 
+35: The Crow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4
+Trace 5: 
+35: The Crow, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wolverine: 4, The Crow: 35
+Trace 6: 
+53: Gambit, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4, The Crow: 35
+Trace 7: 
+53: Gambit, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Wolverine: 4, The Crow: 35, Gambit: 53
+Trace 8: 
+91: John Logie Baird, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Wolverine: 4, The Crow: 35, Gambit: 53
+End Match Trace for Program: 37: University of Chicago Medicine
+
+Match Trace for Program: 38: University of Illinois at Chicago College of Medicine
+Program Rank List: 11: Dick Grayson, 99: Hedy Lamarr, 84: Charles Mayo
+No Constraints.
+Match attempts:
+Trace 1: 
+11: Dick Grayson, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+11: Dick Grayson, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Dick Grayson: 11
+Trace 3: 
+77: John Hunter, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Dick Grayson: 11
+Trace 4: 
+22: Professor X, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Dick Grayson: 11
+Trace 5: 
+22: Professor X, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Dick Grayson: 11
+End Match Trace for Program: 38: University of Illinois at Chicago College of Medicine
+
+Match Trace for Program: 39: University of Kansas School of Medicine
+Program Rank List: 84: Charles Mayo, 43: Human Torch, 17: Barbara Gordon
+No Constraints.
+Match attempts:
+Trace 1: 
+17: Barbara Gordon, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+17: Barbara Gordon, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Barbara Gordon: 17
+Trace 3: 
+24: Yorick Brown, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 4: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 5: 
+64: Nova, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 6: 
+87: Alexander Graham Bell, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 7: 
+94: James, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 8: 
+64: Nova, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+Trace 9: 
+64: Nova, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Barbara Gordon: 17
+End Match Trace for Program: 39: University of Kansas School of Medicine
+
+Match Trace for Program: 40: University of New Mexico
+Program Rank List: 56: Luke Cage, 25: Rick Grimes, 44: Black Panther, 43: Human Torch, 14: Thor, 22: Professor X, 50: The Tick
+No Constraints.
+Match attempts:
+Trace 1: 
+10: Daredevil, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+14: Thor, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+14: Thor, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14
+Trace 4: 
+20: Catwoman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14
+Trace 5: 
+22: Professor X, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14
+Trace 6: 
+22: Professor X, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14, Professor X: 22
+Trace 7: 
+25: Rick Grimes, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Professor X: 22
+Trace 8: 
+25: Rick Grimes, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 9: 
+27: Swamp Thing, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 10: 
+44: Black Panther, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 11: 
+22: Professor X, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 12: 
+22: Professor X, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Professor X: 22, Rick Grimes: 25
+Trace 13: 
+44: Black Panther, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 14: 
+45: Aquaman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 15: 
+49: Hawkman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 16: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 17: 
+50: The Tick, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 18: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 19: 
+56: Luke Cage, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 20: 
+14: Thor, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 21: 
+14: Thor, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Thor: 14, Rick Grimes: 25, Black Panther: 44
+Trace 22: 
+56: Luke Cage, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 23: 
+14: Thor, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 24: 
+14: Thor, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 25: 
+14: Thor, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 26: 
+22: Professor X, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 27: 
+22: Professor X, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 28: 
+22: Professor X, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 29: 
+27: Swamp Thing, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 30: 
+49: Hawkman, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 31: 
+22: Professor X, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 32: 
+22: Professor X, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 33: 
+22: Professor X, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+Trace 34: 
+49: Hawkman, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Rick Grimes: 25, Black Panther: 44, Luke Cage: 56
+End Match Trace for Program: 40: University of New Mexico
+
+Match Trace for Program: 41: University of North Carolina 
+Program Rank List: 90: Johannes Gutenberg, 65: Albert Einstein, 63: Wasp, 72: Thomas Edison
+No Constraints.
+Match attempts:
+Trace 1: 
+26: Punisher, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+46: Bucky Barnes, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+47: Elijah Snow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+72: Thomas Edison, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+72: Thomas Edison, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thomas Edison: 72
+Trace 6: 
+90: Johannes Gutenberg, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thomas Edison: 72
+Trace 7: 
+90: Johannes Gutenberg, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+Trace 8: 
+26: Punisher, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+Trace 9: 
+26: Punisher, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thomas Edison: 72, Johannes Gutenberg: 90
+End Match Trace for Program: 41: University of North Carolina 
+
+Match Trace for Program: 42: University of Texas Health Science Center San Antonio
+Program Rank List: 99: Hedy Lamarr, 60: Ghost Rider, 96: Herman Hollerith
+No Constraints.
+Match attempts:
+Trace 1: 
+42: Hawkeye, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+99: Hedy Lamarr, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+99: Hedy Lamarr, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Hedy Lamarr: 99
+Trace 4: 
+42: Hawkeye, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hedy Lamarr: 99
+Trace 5: 
+42: Hawkeye, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Hedy Lamarr: 99
+End Match Trace for Program: 42: University of Texas Health Science Center San Antonio
+
+Match Trace for Program: 43: University of Virginia
+Program Rank List: 50: The Tick, 18: Thing
+No Constraints.
+Match attempts:
+Trace 1: 
+18: Thing, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+18: Thing, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thing: 18
+Trace 3: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Thing: 18
+Trace 4: 
+50: The Tick, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Thing: 18, The Tick: 50
+End Match Trace for Program: 43: University of Virginia
+
+Match Trace for Program: 44: Univeristy of Washington 
+Program Rank List: 54: Invisible Woman, 6: Captain America
+No Constraints.
+Match attempts:
+Trace 1: 
+6: Captain America, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+6: Captain America, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Captain America: 6
+Trace 3: 
+9: Hulk, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 4: 
+15: Morpheus, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 5: 
+47: Elijah Snow, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 6: 
+54: Invisible Woman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Captain America: 6
+Trace 7: 
+6: Captain America, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Captain America: 6
+Trace 8: 
+6: Captain America, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Captain America: 6
+Trace 9: 
+54: Invisible Woman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Invisible Woman: 54
+Trace 10: 
+63: Wasp, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+Trace 11: 
+6: Captain America, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+Trace 12: 
+6: Captain America, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Invisible Woman: 54
+Trace 13: 
+6: Captain America, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Invisible Woman: 54
+Trace 14: 
+15: Morpheus, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+Trace 15: 
+15: Morpheus, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Invisible Woman: 54
+End Match Trace for Program: 44: Univeristy of Washington 
+
+Match Trace for Program: 45: Vanderbilt University
+Program Rank List: 92: Benjamin Franklin, 63: Wasp, 56: Luke Cage, 54: Invisible Woman, 17: Barbara Gordon, 51: Booster Gold
+No Constraints.
+Match attempts:
+Trace 1: 
+10: Daredevil, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+31: Nick Fury, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 3: 
+42: Hawkeye, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+42: Hawkeye, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 5: 
+92: Benjamin Franklin, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 6: 
+92: Benjamin Franklin, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Benjamin Franklin: 92
+Trace 7: 
+99: Hedy Lamarr, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 8: 
+42: Hawkeye, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 9: 
+42: Hawkeye, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 10: 
+42: Hawkeye, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+Trace 11: 
+42: Hawkeye, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Benjamin Franklin: 92
+End Match Trace for Program: 45: Vanderbilt University
+
+Match Trace for Program: 46: Washington University
+Program Rank List: 74: William Osler, 84: Charles Mayo, 13: Jean Grey, 31: Nick Fury, 2: Batman, 9: Hulk, 39: Silver Surfer, 79: William Harvey, 7: Hal Jordan
+No Constraints.
+Match attempts:
+Trace 1: 
+2: Batman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+2: Batman, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2
+Trace 3: 
+7: Hal Jordan, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2
+Trace 4: 
+7: Hal Jordan, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2, Hal Jordan: 7
+Trace 5: 
+36: Doctor Strange, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7
+Trace 6: 
+39: Silver Surfer, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7
+Trace 7: 
+39: Silver Surfer, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 8: 
+48: John Stewart, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 9: 
+54: Invisible Woman, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 10: 
+65: Albert Einstein, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 11: 
+70: Louis Pasteur, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 12: 
+84: Charles Mayo, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39
+Trace 13: 
+84: Charles Mayo, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Batman: 2, Hal Jordan: 7, Silver Surfer: 39, Charles Mayo: 84
+End Match Trace for Program: 46: Washington University
+
+Match Trace for Program: 47: Yale/VA
+Program Rank List: 81: Carl Jung, 71: Edwin Hubble, 9: Hulk, 28: John Constantine
+Constraints: 
+Constraint 6, can take 1 from Carl Jung: 81, John Constantine: 28
+Constraint 7, can take 2 from Carl Jung: 81, Edwin Hubble: 71, Hulk: 9
+Match attempts:
+Trace 1: 
+28: John Constantine, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+28: John Constantine, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: John Constantine: 28
+Trace 3: 
+63: Wasp, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: John Constantine: 28
+Trace 4: 
+71: Edwin Hubble, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: John Constantine: 28
+Trace 5: 
+71: Edwin Hubble, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: John Constantine: 28, Edwin Hubble: 71
+Trace 6: 
+87: Alexander Graham Bell, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: John Constantine: 28, Edwin Hubble: 71
+End Match Trace for Program: 47: Yale/VA

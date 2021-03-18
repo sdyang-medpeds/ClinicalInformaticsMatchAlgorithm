@@ -1,0 +1,142 @@
+
+Match Trace for Program: A: Program 1
+Program Rank List: 1: Apple, 2: Banana, 3: Carrot, 4: Donut, 5: clair, 6: Filbert
+Constraints: 
+Constraint 1, can take 1 from Banana: 2, Carrot: 3
+Constraint 2, can take 1 from Banana: 2, Donut: 4
+Match attempts:
+Trace 1: 
+3: Carrot, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+3: Carrot, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Carrot: 3
+Trace 3: 
+4: Donut, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3
+Trace 4: 
+4: Donut, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Carrot: 3, Donut: 4
+Trace 5: 
+2: Banana, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3, Donut: 4
+Trace 6: 
+3: Carrot, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Carrot: 3, Donut: 4
+Trace 7: 
+4: Donut, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Carrot: 3, Donut: 4
+Trace 8: 
+2: Banana, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Banana: 2
+Trace 9: 
+5: clair, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2
+Trace 10: 
+5: clair, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Banana: 2, clair: 5
+Trace 11: 
+6: Filbert, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 12: 
+6: Filbert, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 13: 
+6: Filbert, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 14: 
+6: Filbert, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 15: 
+1: Apple, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 16: 
+5: clair, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 17: 
+5: clair, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 18: 
+5: clair, on iteration: 1 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, clair: 5
+Trace 19: 
+1: Apple, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Banana: 2, Apple: 1
+Trace 20: 
+3: Carrot, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 21: 
+3: Carrot, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 22: 
+3: Carrot, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 23: 
+4: Donut, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 24: 
+4: Donut, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 25: 
+4: Donut, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 26: 
+5: clair, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 27: 
+5: clair, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 28: 
+5: clair, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 29: 
+5: clair, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 30: 
+6: Filbert, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 31: 
+6: Filbert, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 32: 
+6: Filbert, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 33: 
+6: Filbert, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 34: 
+4: Donut, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 35: 
+4: Donut, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 36: 
+4: Donut, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 37: 
+5: clair, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 38: 
+5: clair, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 39: 
+5: clair, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 40: 
+5: clair, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 41: 
+6: Filbert, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 42: 
+6: Filbert, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 43: 
+6: Filbert, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Banana: 2, Apple: 1
+Trace 44: 
+6: Filbert, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Banana: 2, Apple: 1
+End Match Trace for Program: A: Program 1
+
+Match Trace for Program: B: Program 2
+Program Rank List: 3: Carrot, 1: Apple, 6: Filbert, 5: clair
+No Constraints.
+Match attempts:
+Trace 1: 
+6: Filbert, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+6: Filbert, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: Filbert: 6
+Trace 3: 
+3: Carrot, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Filbert: 6
+Trace 4: 
+6: Filbert, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Filbert: 6
+Trace 5: 
+6: Filbert, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Filbert: 6
+Trace 6: 
+3: Carrot, on iteration: 2 , with message: Normal iteration - result, with result: True, match list at the time was: Carrot: 3
+Trace 7: 
+4: Donut, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3
+Trace 8: 
+5: clair, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3
+Trace 9: 
+5: clair, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Carrot: 3
+Trace 10: 
+5: clair, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Carrot: 3
+Trace 11: 
+6: Filbert, on iteration: 2 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3
+Trace 12: 
+6: Filbert, on iteration: 2 , with message: Bumped Applicant, with result: False, match list at the time was: Carrot: 3
+Trace 13: 
+6: Filbert, on iteration: 2 , with message: Normal iteration - result, with result: False, match list at the time was: Carrot: 3
+Trace 14: 
+4: Donut, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3
+Trace 15: 
+5: clair, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3
+Trace 16: 
+5: clair, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Carrot: 3
+Trace 17: 
+5: clair, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Carrot: 3
+Trace 18: 
+6: Filbert, on iteration: 3 , with message: Normal iteration - attempt, with result: False, match list at the time was: Carrot: 3
+Trace 19: 
+6: Filbert, on iteration: 3 , with message: Bumped Applicant, with result: False, match list at the time was: Carrot: 3
+Trace 20: 
+6: Filbert, on iteration: 3 , with message: Normal iteration - result, with result: False, match list at the time was: Carrot: 3
+End Match Trace for Program: B: Program 2

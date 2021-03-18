@@ -1,0 +1,28 @@
+
+Match Trace for Applicant: 1: A1
+Applicant Rank List: 1: Program 1, 2: Program 2
+Trace 1: 
+1: Program 1, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+1: Program 1, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A1: 1
+End Match Trace for Applicant: 1: A1
+
+Match Trace for Applicant: 2: A2
+Applicant Rank List: 1: Program 1, 2: Program 2
+Trace 1: 
+1: Program 1, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: A1: 1
+Trace 2: 
+1: Program 1, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: A1: 1
+Trace 3: 
+2: Program 2, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 4: 
+2: Program 2, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A2: 2
+End Match Trace for Applicant: 2: A2
+
+Match Trace for Applicant: 3: A3
+Applicant Rank List: 1: Program 1, 2: Program 2
+Trace 1: 
+1: Program 1, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: A1: 1
+Trace 2: 
+1: Program 1, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A1: 1, A3: 3
+End Match Trace for Applicant: 3: A3

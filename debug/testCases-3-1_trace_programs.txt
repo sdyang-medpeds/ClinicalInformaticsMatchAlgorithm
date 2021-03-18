@@ -1,0 +1,30 @@
+
+Match Trace for Program: 1: Program 1
+Program Rank List: 1: A1, 2: A2, 3: A3
+Constraints: 
+Constraint 1, can take 1 from A1: 1, A2: 2
+Constraint 2, can take 1 from A2: 2, A3: 3
+Match attempts:
+Trace 1: 
+1: A1, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+1: A1, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A1: 1
+Trace 3: 
+2: A2, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: A1: 1
+Trace 4: 
+2: A2, on iteration: 1 , with message: Normal iteration - result, with result: False, match list at the time was: A1: 1
+Trace 5: 
+3: A3, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: A1: 1
+Trace 6: 
+3: A3, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A1: 1, A3: 3
+End Match Trace for Program: 1: Program 1
+
+Match Trace for Program: 2: Program 2
+Program Rank List: 2: A2, 3: A3, 1: A1
+No Constraints.
+Match attempts:
+Trace 1: 
+2: A2, on iteration: 1 , with message: Normal iteration - attempt, with result: False, match list at the time was: N/A
+Trace 2: 
+2: A2, on iteration: 1 , with message: Normal iteration - result, with result: True, match list at the time was: A2: 2
+End Match Trace for Program: 2: Program 2
